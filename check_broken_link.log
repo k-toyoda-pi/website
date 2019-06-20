@@ -1,0 +1,1316 @@
+2019-04-16 17:36:44 URL: https://github.com/kubernetes/community/blob/master/code-of-conduct.md 200 OK
+2019-04-16 17:36:45 URL: https://kubernetes.io/ 200 OK
+https://help.farbox.com/pygments.html:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:36:49 URL: https://kubernetes.io/docs/home/ 200 OK
+2019-04-16 17:36:50 URL: https://kubernetes-io-vnext-staging.netlify.com/ 200 OK
+2019-04-16 17:36:51 URL: https://kubernetes.io/ 200 OK
+2019-04-16 17:36:53 URL: https://v1-13.docs.kubernetes.io/ 200 OK
+2019-04-16 17:36:54 URL: https://v1-12.docs.kubernetes.io/ 200 OK
+2019-04-16 17:36:54 URL: https://v1-11.docs.kubernetes.io/ 200 OK
+2019-04-16 17:36:55 URL: https://v1-10.docs.kubernetes.io/ 200 OK
+2019-04-16 17:36:55 URL: https://use.fontawesome.com/4bcc658a89.js 200 OK
+2019-04-16 17:36:56 URL: https://godoc.org/k8s.io/kubernetes/pkg/kubelet/apis/config 200 OK
+2019-04-16 17:36:57 URL: https://github.com/kubernetes-sigs/cri-tools 200 OK
+2019-04-16 17:36:58 URL: https://github.com/kubernetes-sigs/cri-tools 200 OK
+2019-04-16 17:36:59 URL: https://godoc.org/k8s.io/kubernetes/cmd/kubeadm/app/apis/kubeadm 200 OK
+2019-04-16 17:36:59 URL: https://raw.githubusercontent.com/cncf/artwork/master/kubernetes/certified-kubernetes/versionless/color/certified-kubernetes-color.png 200 OK
+2019-04-16 17:37:00 URL: https://kubernetes.io/blog/2017/10/software-conformance-certification/ 200 OK
+2019-04-16 17:37:01 URL: https://github.com/kubernetes/community/tree/master/sig-cluster-lifecycle 200 OK
+2019-04-16 17:37:02 URL: https://github.com/containernetworking/cni/releases/tag/v0.6.0 200 OK
+2019-04-16 17:37:03 URL: https://github.com/containernetworking/plugins/blob/master/plugins/main/bridge/README.md 200 OK
+2019-04-16 17:37:03 URL: https://github.com/containernetworking/plugins/blob/master/plugins/ipam/host-local/README.md 200 OK
+2019-04-16 17:37:04 URL: https://docs.projectcalico.org/latest/getting-started/kubernetes/ 200 OK
+2019-04-16 17:37:04 URL: https://docs.projectcalico.org/latest/getting-started/kubernetes/installation/calico 200 OK
+2019-04-16 17:37:04 URL: https://docs.projectcalico.org/v3.3/getting-started/kubernetes/installation/hosted/rbac-kdd.yaml 200 OK
+2019-04-16 17:37:05 URL: https://docs.projectcalico.org/v3.3/getting-started/kubernetes/installation/hosted/kubernetes-datastore/calico-networking/1.7/calico.yaml 200 OK
+2019-04-16 17:37:05 URL: https://docs.projectcalico.org/latest/getting-started/kubernetes/installation/flannel 200 OK
+2019-04-16 17:37:05 URL: https://docs.projectcalico.org/v3.3/getting-started/kubernetes/installation/hosted/canal/rbac.yaml 200 OK
+2019-04-16 17:37:05 URL: https://docs.projectcalico.org/v3.3/getting-started/kubernetes/installation/hosted/canal/canal.yaml 200 OK
+2019-04-16 17:37:06 URL: http://docs.cilium.io/en/v1.2/kubernetes/quickinstall/ 200 OK
+2019-04-16 17:37:06 URL: http://docs.cilium.io/en/v1.2/kubernetes/install/ 200 OK
+2019-04-16 17:37:08 URL: https://codeload.github.com/cilium/cilium/zip/v1.2.0 200 OK
+2019-04-16 17:37:08 URL: https://raw.githubusercontent.com/coreos/flannel/bc79dd1505b0c8681ece4de4c0d86c5cd2643275/Documentation/kube-flannel.yml 200 OK
+2019-04-16 17:37:09 URL: https://github.com/coreos/flannel 200 OK
+2019-04-16 17:37:10 URL: https://github.com/cloudnativelabs/kube-router/blob/master/docs/kubeadm.md 200 OK
+2019-04-16 17:37:10 URL: https://github.com/romana/romana/tree/master/containerize 200 OK
+2019-04-16 17:37:10 URL: https://raw.githubusercontent.com/romana/romana/master/containerize/specs/romana-kubeadm.yml 200 OK
+2019-04-16 17:37:13 URL: https://www.weave.works/docs/net/latest/kubernetes/kube-addon/ 200 OK
+https://cloud.weave.works/k8s/net?k8s-version=:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:37:15 URL: https://tungstenfabric.github.io/website/ 200 OK
+failed: Connection refused.
+failed: Connection refused.
+2019-04-16 17:37:16 URL: https://github.com/heptio/sonobuoy 200 OK
+2019-04-16 17:37:17 URL: https://docs.docker.com/engine/admin/ 200 OK
+2019-04-16 17:37:18 URL: https://github.com/kubernetes/kubeadm/issues 200 OK
+2019-04-16 17:37:19 URL: https://kubernetes.slack.com/?redir=%2Fmessages%2Fkubeadm%2F 200 OK
+2019-04-16 17:37:20 URL: https://kubernetes.slack.com/?redir=%2Fmessages%2Fsig-cluster-lifecycle%2F 200 OK
+2019-04-16 17:37:23 URL: https://groups.google.com/forum/ 200 OK
+2019-04-16 17:37:24 URL: https://github.com/kubernetes/community/blob/master/contributors/design-proposals/multi-platform.md 200 OK
+2019-04-16 17:37:24 URL: https://coreos.com/etcd/docs/latest/v2/admin_guide.html 200 OK
+2019-04-16 17:37:25 URL: https://github.com/kubernetes/kubeadm/issues 200 OK
+2019-04-16 17:37:26 URL: https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fkubernetes%2Fkubeadm%2Fissues%2Fnew 200 OK
+2019-04-16 17:37:27 URL: http://slack.k8s.io/ 200 OK
+2019-04-16 17:37:28 URL: https://stackoverflow.com/questions/tagged/kubernetes 200 OK
+2019-04-16 17:37:28 URL: https://github.com/containernetworking/plugins/blob/master/plugins/meta/portmap/README.md 200 OK
+2019-04-16 17:37:29 URL: https://github.com/containernetworking/cni/issues/476 200 OK
+2019-04-16 17:37:31 URL: https://github.com/errordeveloper/kubernetes-ansible-vagrant/blob/22dd39dfc06111235620e6c4404a96ae146f26fd/Vagrantfile 200 OK
+failed: Connection timed out.
+failed: Connection timed out.
+2019-04-16 17:39:32 URL: https://github.com/kubernetes/kubernetes/blob/release-1.13/cmd/kubeadm/app/apis/kubeadm/v1beta1/types.go 200 OK
+2019-04-16 17:39:33 URL: https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/security-enhanced_linux/sect-security-enhanced_linux-enabling_and_disabling_selinux-disabling_selinux 200 OK
+2019-04-16 17:39:34 URL: https://github.com/coredns/coredns/tree/master/plugin/loop 200 OK
+2019-04-16 17:39:34 URL: https://raw.githubusercontent.com/cncf/artwork/master/kubernetes/certified-kubernetes/versionless/color/certified-kubernetes-color.png 200 OK
+2019-04-16 17:39:36 URL: https://github.com/kubernetes/kubeadm/issues/31 200 OK
+2019-04-16 17:39:37 URL: https://github.com/containerd/cri 200 OK
+2019-04-16 17:39:39 URL: https://github.com/cri-o/cri-o 200 OK
+2019-04-16 17:39:40 URL: https://github.com/kubernetes/frakti 200 OK
+2019-04-16 17:39:40 URL: https://github.com/kubernetes-incubator/rktlet 200 OK
+2019-04-16 17:39:42 URL: https://packages.cloud.google.com/apt/doc/apt-key.gpg 200 OK
+2019-04-16 17:39:43 URL: https://packages.cloud.google.com/apt/ 200 OK
+2019-04-16 17:39:43 URL: https://packages.cloud.google.com/yum/repos/kubernetes-el7-x86_64 200 OK
+2019-04-16 17:39:43 URL: https://packages.cloud.google.com/yum/doc/yum-key.gpg 200 OK
+2019-04-16 17:39:43 URL: https://packages.cloud.google.com/yum/doc/rpm-package-key.gpg 200 OK
+https://github.com/containernetworking/plugins/releases/download/:
+Remote file does not exist -- broken link!!!
+https://github.com/kubernetes-sigs/cri-tools/releases/download:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:39:45 URL: https://storage.googleapis.com/kubernetes-release/release/stable.txt 200 OK
+https://storage.googleapis.com/kubernetes-release/release/:
+Remote file does not exist -- broken link!!!
+https://raw.githubusercontent.com/kubernetes/kubernetes/:
+Remote file does not exist -- broken link!!!
+https://raw.githubusercontent.com/kubernetes/kubernetes/:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:39:47 URL: https://en.wikipedia.org/wiki/Network_topology 200 OK
+2019-04-16 17:39:47 URL: https://en.wikipedia.org/wiki/Network_topology 200 OK
+2019-04-16 17:39:48 URL: https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fkubernetes%2Fkubeadm%2Fissues%2Fnew 200 OK
+2019-04-16 17:39:50 URL: http://www.haproxy.org/ 200 OK
+https://cloud.weave.works/k8s/net?k8s-version=:
+Remote file does not exist -- broken link!!!
+wget: unable to resolve host address ‘etcd_0_ip’
+wget: unable to resolve host address ‘etcd_1_ip’
+wget: unable to resolve host address ‘etcd_2_ip’
+https://cloud.weave.works/k8s/net?k8s-version=:
+Remote file does not exist -- broken link!!!
+https://github.com/kubernetes/community/blob/:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:39:53 URL: https://get.k8s.io/ 200 OK
+2019-04-16 17:39:53 URL: https://get.k8s.io/ 200 OK
+2019-04-16 17:39:54 URL: https://github.com/kubernetes/kubernetes/issues/23330 200 OK
+2019-04-16 17:39:56 URL: https://github.com/kubernetes/kubernetes/releases 200 OK
+2019-04-16 17:39:57 URL: https://cloud.google.com/compute/quotas 200 OK
+https://cloud.google.com/blog/products/gcp/cutting-cluster-management-fees-on-google-kubernetes-engine:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:39:59 URL: https://github.com/kubernetes/kubernetes/releases 200 OK
+2019-04-16 17:40:03 URL: https://github.com/kubernetes/kubernetes/pull/10653/files 200 OK
+2019-04-16 17:40:06 URL: https://github.com/kubernetes/kubernetes/pull/10778/files 200 OK
+2019-04-16 17:40:10 URL: https://github.com/kubernetes/kubernetes/issues/10335 200 OK
+2019-04-16 17:40:12 URL: https://github.com/kubernetes/kubernetes/issues/5880 200 OK
+2019-04-16 17:40:13 URL: https://github.com/kubernetes/kubernetes/releases 200 OK
+2019-04-16 17:40:14 URL: https://github.com/kubernetes/kubernetes/releases 200 OK
+2019-04-16 17:40:16 URL: https://github.com/kubernetes/kubernetes/releases 200 OK
+2019-04-16 17:40:17 URL: https://github.com/kubernetes/kubernetes/releases 200 OK
+2019-04-16 17:40:18 URL: https://github.com/kubernetes/kubernetes/releases 200 OK
+2019-04-16 17:40:19 URL: https://github.com/kubernetes/kubernetes/releases 200 OK
+2019-04-16 17:40:22 URL: https://github.com/kubernetes/kubernetes/pull/16185 200 OK
+2019-04-16 17:40:28 URL: https://github.com/kubernetes/kubernetes/pull/22940 200 OK
+2019-04-16 17:40:31 URL: https://github.com/kubernetes/kubernetes/issues/13048 200 OK
+2019-04-16 17:40:33 URL: https://github.com/kubernetes/kubernetes/issues/18969 200 OK
+2019-04-16 17:40:34 URL: https://cloud.google.com/kubernetes-engine/ 200 OK
+2019-04-16 17:40:34 URL: https://www.gstatic.com/cloudssh/images/open-btn.png 200 OK
+2019-04-16 17:40:34 URL: https://accounts.google.com/ServiceLogin?service=cloudconsole&passive=1209600&osid=1&continue=https://console.cloud.google.com/cloudshell/open?git_repo%3Dhttps://github.com/kubernetes/kubernetes%26page%3Deditor%26open_in_editor%3DREADME.md&followup=https://console.cloud.google.com/cloudshell/open?git_repo%3Dhttps://github.com/kubernetes/kubernetes%26page%3Deditor%26open_in_editor%3DREADME.md 200 OK
+2019-04-16 17:40:35 URL: https://accounts.google.com/ServiceLogin?service=cloudconsole&passive=1209600&osid=1&continue=https://console.cloud.google.com/&followup=https://console.cloud.google.com/ 200 OK
+2019-04-16 17:40:35 URL: https://cloud.google.com/sdk/ 200 OK
+2019-04-16 17:40:36 URL: https://accounts.google.com/ServiceLogin?service=cloudconsole&passive=1209600&osid=1&continue=https://console.developers.google.com/apis/api/replicapool.googleapis.com/overview&followup=https://console.developers.google.com/apis/api/replicapool.googleapis.com/overview 200 OK
+2019-04-16 17:40:37 URL: https://accounts.google.com/ServiceLogin?service=cloudconsole&passive=1209600&osid=1&continue=https://console.developers.google.com/apis/library&followup=https://console.developers.google.com/apis/library 200 OK
+2019-04-16 17:40:38 URL: https://cloud.google.com/compute/docs/instances/ 200 OK
+2019-04-16 17:40:38 URL: https://cloud.google.com/compute/docs/instances/ 200 OK
+2019-04-16 17:40:39 URL: https://get.k8s.io/ 200 OK
+2019-04-16 17:40:39 URL: https://get.k8s.io/ 200 OK
+2019-04-16 17:40:41 URL: https://github.com/kubernetes/kubernetes/blob/master/cluster/addons/cluster-monitoring/README.md 200 OK
+2019-04-16 17:40:41 URL: https://github.com/kubernetes/kubernetes/releases 200 OK
+2019-04-16 17:40:43 URL: https://discuss.kubernetes.io/ 200 OK
+https://github.com/kubernetes/examples/tree/:
+Remote file does not exist -- broken link!!!
+https://github.com/kubernetes/examples/tree/:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:40:45 URL: https://gist.github.com/satnam6502/fc689d1b46db9772adea 200 OK
+2019-04-16 17:40:45 URL: https://cloud.google.com/storage/docs/json_api/ 200 OK
+2019-04-16 17:40:47 URL: https://cloud.google.com/compute/docs/quickstarts 200 OK
+2019-04-16 17:40:48 URL: https://github.com/CenturyLinkCloud/adm-kubernetes-on-clc/blob/master/ansible/README.md 200 OK
+2019-04-16 17:40:50 URL: https://www.ctl.io/ 200 OK
+2019-04-16 17:40:51 URL: https://www.ctl.io/ 200 OK
+2019-04-16 17:40:51 URL: https://www.ctl.io/bare-metal/ 200 OK
+2019-04-16 17:40:51 URL: https://www.ctl.io/bare-metal/ 200 OK
+2019-04-16 17:40:53 URL: https://github.com/CenturyLinkCloud/adm-kubernetes-on-clc 200 OK
+2019-04-16 17:40:53 URL: https://www.ctl.io/knowledge-base/network/how-to-configure-client-vpn/ 200 OK
+2019-04-16 17:40:53 URL: https://bootstrap.pypa.io/get-pip.py 200 OK
+2019-04-16 17:40:54 URL: https://github.com/CenturyLinkCloud/adm-kubernetes-on-clc 200 OK
+2019-04-16 17:40:55 URL: https://github.com/CenturyLinkCloud/adm-kubernetes-on-clc/blob/master/log_aggregration.md 200 OK
+failed: Connection refused.
+2019-04-16 17:40:56 URL: https://github.com/CenturyLinkCloud/adm-kubernetes-on-clc/blob/master/ansible/README.md 200 OK
+2019-04-16 17:40:57 URL: https://github.com/kubernetes/kops 200 OK
+2019-04-16 17:40:57 URL: https://coreos.com/tectonic/ 200 OK
+2019-04-16 17:40:58 URL: https://github.com/coreos/tectonic-installer 200 OK
+2019-04-16 17:40:58 URL: https://github.com/kubernetes-incubator/kube-aws 200 OK
+2019-04-16 17:40:59 URL: https://coreos.com/why/ 200 OK
+2019-04-16 17:40:59 URL: https://github.com/kubernetes/kubernetes/releases 200 OK
+https://github.com/kubernetes/examples/tree/:
+Remote file does not exist -- broken link!!!
+https://github.com/kubernetes/examples/tree/:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:41:02 URL: https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-manual-scaling.html 200 OK
+2019-04-16 17:41:04 URL: https://github.com/kubernetes/kops 200 OK
+2019-04-16 17:41:06 URL: https://github.com/justinsb 200 OK
+2019-04-16 17:41:07 URL: https://stackpoint.io/ 200 OK
+2019-04-16 17:41:07 URL: https://stackpoint.io/ 200 OK
+2019-04-16 17:41:08 URL: https://stackpoint.io/ 200 OK
+2019-04-16 17:41:08 URL: https://stackpoint.io/ 200 OK
+2019-04-16 17:41:08 URL: https://stackpoint.io/ 200 OK
+2019-04-16 17:41:08 URL: https://stackpoint.io/ 200 OK
+2019-04-16 17:41:08 URL: https://stackpoint.io/ 200 OK
+2019-04-16 17:41:08 URL: https://stackpoint.io/ 200 OK
+2019-04-16 17:41:08 URL: https://stackpoint.io/ 200 OK
+2019-04-16 17:41:08 URL: https://stackpoint.io/ 200 OK
+2019-04-16 17:41:09 URL: https://stackpoint.io/ 200 OK
+2019-04-16 17:41:09 URL: https://stackpoint.io/ 200 OK
+2019-04-16 17:41:09 URL: https://stackpoint.io/ 200 OK
+2019-04-16 17:41:10 URL: https://azure.microsoft.com/ja-jp/services/kubernetes-service/ 200 OK
+2019-04-16 17:41:10 URL: https://docs.microsoft.com/ja-jp/azure/aks/intro-kubernetes 200 OK
+2019-04-16 17:41:10 URL: https://github.com/Azure/acs-engine 200 OK
+2019-04-16 17:41:11 URL: https://github.com/Azure/acs-engine/blob/master/docs/kubernetes.md 200 OK
+2019-04-16 17:41:12 URL: https://github.com/coreos/tectonic-installer 200 OK
+2019-04-16 17:41:12 URL: https://www.terraform.io/docs/providers/azurerm/ 200 OK
+2019-04-16 17:41:12 URL: https://coreos.com/tectonic/docs/latest/install/azure/azure-terraform.html 200 OK
+2019-04-16 17:41:16 URL: https://cn.aliyun.com/product/containerservice 200 OK
+2019-04-16 17:41:17 URL: https://cn.aliyun.com/solution/kubernetes 200 OK
+2019-04-16 17:41:18 URL: https://help.aliyun.com/document_detail/53751.html 200 OK
+https://yq.aliyun.com/teams/11/type_blog-cid_200-page_1:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:41:22 URL: https://github.com/AliyunContainerService/kubernetes 200 OK
+2019-04-16 17:41:23 URL: https://www.alibabacloud.com/forum/read-830 200 OK
+https://yq.aliyun.com/articles/66474:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:41:26 URL: https://microk8s.io/ 200 OK
+2019-04-16 17:41:27 URL: https://github.com/IBM/deploy-ibm-cloud-private 200 OK
+2019-04-16 17:41:27 URL: https://github.com/HSBawa/icp-ce-on-linux-containers 200 OK
+2019-04-16 17:41:28 URL: https://github.com/kubernetes-sigs/kubeadm-dind-cluster 200 OK
+2019-04-16 17:41:29 URL: https://appscode.com/products/pharmer/ 200 OK
+2019-04-16 17:41:31 URL: https://appuio.ch/ 200 OK
+2019-04-16 17:41:31 URL: https://aws.amazon.com/eks/ 200 OK
+2019-04-16 17:41:32 URL: https://azure.microsoft.com/en-us/services/kubernetes-service/ 200 OK
+2019-04-16 17:41:34 URL: https://giantswarm.io/product/ 200 OK
+2019-04-16 17:41:35 URL: https://cloud.google.com/kubernetes-engine/ 200 OK
+2019-04-16 17:41:35 URL: https://console.bluemix.net/docs/containers/container_index.html 200 OK
+2019-04-16 17:41:35 URL: https://www.loodse.com/ 200 OK
+2019-04-16 17:41:36 URL: https://kublr.com/ 200 OK
+wget: unable to resolve host address ‘madcore.ai’
+2019-04-16 17:41:44 URL: https://www.openshift.com/products/dedicated/ 200 OK
+2019-04-16 17:41:44 URL: https://www.openshift.com/products/features/ 200 OK
+2019-04-16 17:41:46 URL: https://docs.cloud.oracle.com/iaas/Content/ContEng/Concepts/contengoverview.htm 200 OK
+2019-04-16 17:41:47 URL: https://platform9.com/wp-content/uploads/2017/06/kubernetes.png 200 OK
+2019-04-16 17:41:48 URL: https://stackpoint.io/ 200 OK
+2019-04-16 17:41:51 URL: https://www.syseleven.io/products-services/metakube/ 200 OK
+2019-04-16 17:41:52 URL: https://cloud.vmware.com/vmware-cloud-pks 200 OK
+2019-04-16 17:41:55 URL: https://www.agilestacks.com/products/kubernetes 200 OK
+2019-04-16 17:41:56 URL: https://appuio.ch/ 200 OK
+2019-04-16 17:41:56 URL: https://gardener.cloud/ 200 OK
+2019-04-16 17:41:57 URL: https://github.com/patrocinio/kubernetes-softlayer 200 OK
+2019-04-16 17:41:59 URL: https://www.kontena.io/pharos/ 200 OK
+2019-04-16 17:42:01 URL: https://cloud.kubermatic.io/ 200 OK
+2019-04-16 17:42:01 URL: https://kublr.com/ 200 OK
+wget: unable to resolve host address ‘madcore.ai’
+2019-04-16 17:42:02 URL: https://docs.cloud.oracle.com/iaas/Content/ContEng/Concepts/contengprerequisites.htm 200 OK
+2019-04-16 17:42:04 URL: https://pivotal.io/platform/pivotal-container-service 200 OK
+2019-04-16 17:42:05 URL: https://giantswarm.io/ 200 OK
+2019-04-16 17:42:05 URL: https://rancher.com/docs/rancher/v2.x/en/ 200 OK
+2019-04-16 17:42:06 URL: https://coreos.com/tectonic/ 200 OK
+2019-04-16 17:42:06 URL: https://www.agilestacks.com/products/kubernetes 200 OK
+2019-04-16 17:42:07 URL: https://appuio.ch/ 200 OK
+2019-04-16 17:42:07 URL: https://cloud.google.com/gke-on-prem/ 200 OK
+https://www.ibm.com/cloud-computing/products/ibm-cloud-private/:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:42:11 URL: https://www.kontena.io/pharos/ 200 OK
+2019-04-16 17:42:11 URL: https://www.loodse.com/ 200 OK
+2019-04-16 17:42:11 URL: https://kublr.com/ 200 OK
+2019-04-16 17:42:12 URL: https://pivotal.io/platform/pivotal-container-service 200 OK
+2019-04-16 17:42:13 URL: https://giantswarm.io/ 200 OK
+2019-04-16 17:42:14 URL: https://rancher.com/docs/rancher/v2.x/en/ 200 OK
+2019-04-16 17:42:17 URL: https://www.suse.com/products/caas-platform 200 OK
+2019-04-16 17:42:17 URL: https://www.suse.com/products/cloud-application-platform/ 200 OK
+https://github.com/kubernetes/community/blob/master/contributors/devel/writing-a-getting-started-guide.md:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:42:18 URL: https://gardener.cloud/ 200 OK
+2019-04-16 17:42:18 URL: https://kublr.com/ 200 OK
+2019-04-16 17:42:19 URL: https://github.com/rancher/rke 200 OK
+2019-04-16 17:42:19 URL: https://vmware.github.io/vsphere-storage-for-kubernetes/documentation/ 200 OK
+2019-04-16 17:42:21 URL: https://github.com/kubernetes/community/tree/master/sig-cluster-lifecycle 200 OK
+2019-04-16 17:42:22 URL: https://cloud.google.com/kubernetes-engine/docs/ 200 OK
+2019-04-16 17:42:22 URL: https://stackpoint.io/ 200 OK
+2019-04-16 17:42:22 URL: https://appscode.com/products/pharmer/ 200 OK
+wget: unable to resolve host address ‘madcore.ai’
+2019-04-16 17:42:25 URL: https://github.com/madcore-ai 200 OK
+2019-04-16 17:42:29 URL: https://platform9.com/managed-kubernetes/ 200 OK
+2019-04-16 17:42:29 URL: https://docs.kublr.com/ 200 OK
+2019-04-16 17:42:31 URL: https://docs.kubermatic.io/ 200 OK
+2019-04-16 17:42:31 URL: https://console.bluemix.net/docs/containers/ 200 OK
+2019-04-16 17:42:34 URL: https://docs.giantswarm.io/ 200 OK
+2019-04-16 17:42:34 URL: https://docs.microsoft.com/en-us/azure/aks/ 200 OK
+2019-04-16 17:42:35 URL: https://github.com/Azure/acs-engine 200 OK
+2019-04-16 17:42:35 URL: https://github.com/aveshagarwal 200 OK
+2019-04-16 17:42:36 URL: https://github.com/aveshagarwal 200 OK
+2019-04-16 17:42:38 URL: https://github.com/aveshagarwal 200 OK
+2019-04-16 17:42:38 URL: https://github.com/mesosphere/kubernetes-mesos/blob/master/AUTHORS.md 200 OK
+2019-04-16 17:42:40 URL: https://github.com/pires 200 OK
+2019-04-16 17:42:41 URL: https://github.com/pires 200 OK
+2019-04-16 17:42:42 URL: https://github.com/AntonioMeireles 200 OK
+2019-04-16 17:42:44 URL: https://github.com/sebgoa 200 OK
+2019-04-16 17:42:44 URL: https://vmware.github.io/vsphere-storage-for-kubernetes/documentation/ 200 OK
+2019-04-16 17:42:45 URL: https://vmware.github.io/vsphere-storage-for-kubernetes/documentation/contactus.html 200 OK
+2019-04-16 17:42:46 URL: https://github.com/coolsvap 200 OK
+2019-04-16 17:42:48 URL: https://www.ubuntu.com/kubernetes 200 OK
+2019-04-16 17:42:51 URL: https://jujucharms.com/kubernetes 200 OK
+2019-04-16 17:42:52 URL: https://www.ubuntu.com/kubernetes 200 OK
+2019-04-16 17:42:53 URL: https://jujucharms.com/kubernetes 200 OK
+2019-04-16 17:42:54 URL: https://www.ubuntu.com/kubernetes 200 OK
+2019-04-16 17:42:55 URL: https://jujucharms.com/kubernetes 200 OK
+2019-04-16 17:42:56 URL: https://www.ubuntu.com/kubernetes 200 OK
+2019-04-16 17:42:57 URL: https://jujucharms.com/kubernetes 200 OK
+2019-04-16 17:42:58 URL: https://www.ubuntu.com/kubernetes 200 OK
+2019-04-16 17:42:59 URL: https://jujucharms.com/kubernetes 200 OK
+2019-04-16 17:43:01 URL: https://developer.rackspace.com/docs/rkaas/latest/ 200 OK
+2019-04-16 17:43:03 URL: https://www.rackspace.com/managed-kubernetes 200 OK
+2019-04-16 17:43:04 URL: https://www.ubuntu.com/kubernetes 200 OK
+2019-04-16 17:43:05 URL: https://jujucharms.com/kubernetes 200 OK
+2019-04-16 17:43:06 URL: https://www.ubuntu.com/kubernetes 200 OK
+2019-04-16 17:43:07 URL: https://jujucharms.com/kubernetes 200 OK
+2019-04-16 17:43:09 URL: https://github.com/justinsb 200 OK
+2019-04-16 17:43:11 URL: https://github.com/kubernetes/kops/ 200 OK
+2019-04-16 17:43:11 URL: https://github.com/justinsb 200 OK
+2019-04-16 17:43:13 URL: https://github.com/resouer 200 OK
+2019-04-16 17:43:14 URL: https://github.com/WIZARD-CXY 200 OK
+2019-04-16 17:43:15 URL: https://github.com/simon3z 200 OK
+2019-04-16 17:43:16 URL: https://github.com/erictune 200 OK
+2019-04-16 17:43:17 URL: http://docs.projectcalico.org/v2.2/getting-started/kubernetes/installation/ 200 OK
+2019-04-16 17:43:18 URL: https://rancher.com/docs/rancher/v2.x/en/quick-start-guide/ 200 OK
+2019-04-16 17:43:19 URL: https://rancher.com/what-is-rancher/overview/ 200 OK
+2019-04-16 17:43:20 URL: https://github.com/rancher/rancher 200 OK
+2019-04-16 17:43:20 URL: https://kubernetes.io/blog/2018/05/17/gardener/ 200 OK
+2019-04-16 17:43:20 URL: https://gardener.cloud/ 200 OK
+2019-04-16 17:43:21 URL: https://github.com/gardener 200 OK
+2019-04-16 17:43:23 URL: https://cloudplatform.sap.com/index.html 200 OK
+2019-04-16 17:43:24 URL: https://cn.aliyun.com/product/containerservice 200 OK
+2019-04-16 17:43:24 URL: https://www.agilestacks.com/products/kubernetes 200 OK
+2019-04-16 17:43:24 URL: https://console.bluemix.net/docs/containers/container_index.html 200 OK
+2019-04-16 17:43:25 URL: https://github.com/digitalrebar 200 OK
+2019-04-16 17:43:27 URL: https://docs.vmware.com/en/VMware-Cloud-PKS/index.html 200 OK
+2019-04-16 17:43:28 URL: https://gist.github.com/erictune/4cabc010906afbcc5061 200 OK
+2019-04-16 17:43:28 URL: https://gist.github.com/derekwaynecarr/505e56036cdf010bf6b6 200 OK
+2019-04-16 17:43:29 URL: https://gist.github.com/erictune/2f39b22f72565365e59b 200 OK
+2019-04-16 17:43:29 URL: https://download.docker.com/linux/ubuntu/gpg 200 OK
+2019-04-16 17:43:29 URL: https://download.docker.com/linux/ubuntu/ 200 OK
+2019-04-16 17:43:29 URL: https://download.docker.com/linux/centos/docker-ce.repo 200 OK
+2019-04-16 17:43:30 URL: https://docs.docker.com/engine/installation/ 200 OK
+2019-04-16 17:43:31 URL: https://cbs.centos.org/repos/paas7-crio-311-candidate/x86_64/os/ 200 OK
+2019-04-16 17:43:33 URL: https://github.com/cri-o/cri-o 200 OK
+2019-04-16 17:43:34 URL: https://github.com/containerd/containerd/releases 200 OK
+2019-04-16 17:43:34 URL: https://storage.googleapis.com/cri-containerd-release 200 OK
+https://storage.googleapis.com/cri-containerd-release/cri-containerd-:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:43:35 URL: https://github.com/kubernetes/frakti 200 OK
+2019-04-16 17:43:36 URL: https://github.com/kubernetes-incubator/rktlet/blob/master/docs/getting-started-guide.md 200 OK
+2019-04-16 17:43:36 URL: https://github.com/containernetworking/cni 200 OK
+2019-04-16 17:43:39 URL: http://docs.projectcalico.org/ 200 OK
+2019-04-16 17:43:40 URL: https://github.com/coreos/flannel 200 OK
+2019-04-16 17:43:40 URL: http://www.openvswitch.org/ 200 OK
+2019-04-16 17:43:41 URL: https://romana.io/ 200 OK
+2019-04-16 17:43:42 URL: https://www.weave.works/ 200 OK
+2019-04-16 17:43:44 URL: https://github.com/kubernetes/community/tree/master/contributors/devel 200 OK
+2019-04-16 17:43:45 URL: https://github.com/kubernetes/kubernetes/releases/tag/v1.14.1 200 OK
+2019-04-16 17:43:46 URL: https://github.com/kubernetes/kubernetes/releases/tag/v1.14.1 200 OK
+2019-04-16 17:43:47 URL: https://github.com/kubernetes/kubernetes/releases 200 OK
+2019-04-16 17:43:48 URL: https://github.com/rkt/rkt 200 OK
+2019-04-16 17:43:49 URL: https://github.com/rkt/rkt/releases/tag/v0.5.6 200 OK
+2019-04-16 17:43:54 URL: https://www.freedesktop.org/wiki/Software/systemd/ 200 OK
+2019-04-16 17:43:59 URL: https://lists.freedesktop.org/archives/systemd-devel/2014-July/020903.html 200 OK
+2019-04-16 17:44:01 URL: https://github.com/rkt/rkt/blob/master/Documentation/networking/overview.md 200 OK
+wget: unable to resolve host address ‘www.iptables.info’
+2019-04-16 17:44:12 URL: https://linux.die.net/man/8/logrotate 200 OK
+http://supervisord.org/:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:44:13 URL: https://github.com/kubernetes/kubernetes/blob/master/cluster/gce/manifests/etcd.manifest 200 OK
+failed: Connection refused.
+2019-04-16 17:44:15 URL: https://github.com/kubernetes/kubernetes/releases 200 OK
+https://code.google.com/p/gcfg/:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:44:17 URL: https://github.com/kubernetes/kubernetes/releases 200 OK
+failed: Connection refused.
+failed: Connection refused.
+failed: Connection refused.
+failed: Connection refused.
+2019-04-16 17:44:18 URL: https://github.com/kubernetes/kubernetes/releases 200 OK
+2019-04-16 17:44:19 URL: https://github.com/kubernetes/kubernetes/releases 200 OK
+2019-04-16 17:44:19 URL: https://github.com/kubernetes/dashboard 200 OK
+2019-04-16 17:44:21 URL: https://github.com/kubernetes/kubernetes/releases 200 OK
+2019-04-16 17:44:21 URL: https://discuss.kubernetes.io/ 200 OK
+2019-04-16 17:44:23 URL: https://github.com/erictune 200 OK
+failed: Connection refused.
+failed: Connection refused.
+https://github.com/kubernetes/community/blob/:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:44:28 URL: https://github.com/digitalrebar/provision 200 OK
+2019-04-16 17:44:29 URL: https://provision.readthedocs.io/en/tip/doc/integrations/ansible.html 200 OK
+2019-04-16 17:44:30 URL: https://github.com/digitalrebar/provision-content/tree/master/krib 200 OK
+2019-04-16 17:44:30 URL: https://provision.readthedocs.io/en/tip/doc/arch/cluster.html 200 OK
+wget: unable to resolve host address ‘https’
+2019-04-16 17:44:40 URL: https://provision.readthedocs.io/en/tip/doc/quickstart.html 200 OK
+2019-04-16 17:44:41 URL: https://github.com/digitalrebar/provision-content/tree/master/krib 200 OK
+2019-04-16 17:44:42 URL: https://s3-us-west-2.amazonaws.com/rebar-catalog/certs/v2.4.0-0-02301d35f9f664d6c81d904c92a9c81d3fd41d2c/amd64/linux/certs 200 OK
+2019-04-16 17:44:42 URL: https://portal.rackn.io/ 200 OK
+2019-04-16 17:44:43 URL: https://provision.readthedocs.io/en/tip/doc/content-packages/krib.html 200 OK
+2019-04-16 17:44:43 URL: https://provision.readthedocs.io/en/tip/doc/content-packages/krib.html 200 OK
+2019-04-16 17:44:45 URL: https://rackn.slack.com/?redir=%2Fmessages%2Fcommunity%2F 200 OK
+https://github.com/digital/provision/issues:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:44:46 URL: https://ovedou.blogspot.com/2014/03/importing-glance-images-as-ovirt.html 200 OK
+2019-04-16 17:44:48 URL: https://www.ovirt.org/documentation/install-guide/Installation_Guide.html 200 OK
+2019-04-16 17:44:49 URL: https://www.ovirt.org/documentation/install-guide/Installation_Guide.html 200 OK
+2019-04-16 17:44:50 URL: https://www.ovirt.org/develop/ 200 OK
+failed: Connection refused.
+failed: Connection refused.
+2019-04-16 17:44:50 URL: https://img.youtube.com/vi/JyyST4ZKne8/0.jpg 200 OK
+2019-04-16 17:44:51 URL: https://www.youtube.com/watch?v=JyyST4ZKne8 200 OK
+2019-04-16 17:44:52 URL: https://github.com/simon3z 200 OK
+2019-04-16 17:44:52 URL: https://mesosphere.com/product/ 200 OK
+2019-04-16 17:44:53 URL: https://github.com/mesosphere/dcos-kubernetes-quickstart 200 OK
+2019-04-16 17:44:54 URL: https://cloudstack.apache.org/ 200 OK
+2019-04-16 17:44:54 URL: https://coreos.com/ 200 OK
+2019-04-16 17:44:54 URL: http://stable.release.core-os.net/amd64-usr/current/ 200 OK
+2019-04-16 17:44:56 URL: http://docs.cloudstack.apache.org/projects/cloudstack-administration/en/latest/templates.html 200 OK
+2019-04-16 17:44:57 URL: https://github.com/apachecloudstack/k8s 200 OK
+2019-04-16 17:44:57 URL: https://github.com/exoscale/cs 200 OK
+2019-04-16 17:44:58 URL: https://github.com/apachecloudstack/k8s 200 OK
+2019-04-16 17:45:00 URL: https://github.com/ltupin/ 200 OK
+2019-04-16 17:45:00 URL: https://coreos.com/tectonic/docs/latest/tutorials/kubernetes/getting-started.html 200 OK
+2019-04-16 17:45:01 URL: https://coreos.com/tectonic/docs/latest/tectonic-prometheus-operator/tectonic-monitoring.html 200 OK
+2019-04-16 17:45:01 URL: https://coreos.com/tectonic/docs/latest/install/aws/index.html 200 OK
+2019-04-16 17:45:01 URL: https://coreos.com/tectonic/docs/latest/install/bare-metal/metal-terraform.html 200 OK
+2019-04-16 17:45:02 URL: https://coreos.com/ignition/docs/latest/ 200 OK
+2019-04-16 17:45:02 URL: https://coreos.com/tectonic/docs/latest/tutorials/sandbox/index.html 200 OK
+2019-04-16 17:45:02 URL: https://coreos.com/tectonic/docs/latest/tutorials/sandbox/index.html 200 OK
+2019-04-16 17:45:03 URL: https://coreos.com/tectonic/docs/latest/tutorials/kubernetes/getting-started.html 200 OK
+2019-04-16 17:45:05 URL: https://github.com/rimusz/kube-gce/blob/master/README.md 200 OK
+2019-04-16 17:45:07 URL: https://github.com/coreos/fleet 200 OK
+2019-04-16 17:45:08 URL: https://github.com/errordeveloper/weave-demos/blob/master/poseidon/README.md 200 OK
+2019-04-16 17:45:08 URL: https://github.com/pires/kubernetes-vagrant-coreos-cluster/blob/master/README.md 200 OK
+2019-04-16 17:45:10 URL: https://github.com/TheNewNormal/kube-solo-osx/blob/master/README.md 200 OK
+2019-04-16 17:45:11 URL: https://github.com/rimusz/coreos-kubernetes-cluster-osx/blob/master/README.md 200 OK
+2019-04-16 17:45:11 URL: https://github.com/xavierbaude/VMware-coreos-multi-nodes-Kubernetes 200 OK
+2019-04-16 17:45:12 URL: https://github.com/johscheuer/theforeman-coreos-kubernetes 200 OK
+2019-04-16 17:45:13 URL: https://theforeman.org/ 200 OK
+2019-04-16 17:45:14 URL: https://github.com/pires 200 OK
+2019-04-16 17:45:15 URL: https://github.com/pires 200 OK
+2019-04-16 17:45:16 URL: https://github.com/AntonioMeireles 200 OK
+2019-04-16 17:45:16 URL: https://github.com/kubernetes/kops 200 OK
+2019-04-16 17:45:17 URL: https://github.com/kubernetes/kops/blob/master/docs/images.md 200 OK
+2019-04-16 17:45:18 URL: https://github.com/kubernetes/kops/blob/master/docs/high_availability.md 200 OK
+2019-04-16 17:45:18 URL: https://github.com/kubernetes/kops/blob/master/docs/terraform.md 200 OK
+2019-04-16 17:45:19 URL: https://github.com/kubernetes/kops/releases 200 OK
+https://github-production-release-asset-2e65be.s3.amazonaws.com/62091339/d1015500-a0cf-11e8-88c9-50992149a1e6?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20190416%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190416T084519Z&X-Amz-Expires=300&X-Amz-Signature=95d134427a813d869ab9797bf54ed30c0ce0236c39e0897ed9a2c1fddfbee196&X-Amz-SignedHeaders=host&actor_id=0&response-content-disposition=attachment%3B%20filename%3Dkops-darwin-amd64&response-content-type=application%2Foctet-stream:
+Remote file does not exist -- broken link!!!
+https://github-production-release-asset-2e65be.s3.amazonaws.com/62091339/d5c60900-a0cf-11e8-8623-e06af953e312?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20190416%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190416T084520Z&X-Amz-Expires=300&X-Amz-Signature=f87cf4109a8e26c27e1104a302a61d98b8bd54ec362c065f76f7f5205b827eef&X-Amz-SignedHeaders=host&actor_id=0&response-content-disposition=attachment%3B%20filename%3Dkops-linux-amd64&response-content-type=application%2Foctet-stream:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:45:22 URL: https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/CreatingNewSubdomain.html 200 OK
+2019-04-16 17:45:23 URL: https://kubernetes.slack.com/?redir=%2Fmessages%2Fkops-users%2F 200 OK
+2019-04-16 17:45:24 URL: https://github.com/kubernetes/kops/issues 200 OK
+2019-04-16 17:45:25 URL: https://github.com/kubernetes/kops 200 OK
+2019-04-16 17:45:26 URL: https://github.com/kubernetes/kops 200 OK
+2019-04-16 17:45:27 URL: https://github.com/kubernetes-sigs/kubespray 200 OK
+2019-04-16 17:45:27 URL: https://docs.ansible.com/ 200 OK
+2019-04-16 17:45:29 URL: https://github.com/kubernetes-sigs/kubespray/blob/master/docs/ansible.md 200 OK
+2019-04-16 17:45:30 URL: https://github.com/kubernetes-sigs/kubespray/blob/master/docs/comparisons.md 200 OK
+2019-04-16 17:45:31 URL: https://github.com/kubernetes-sigs/kubespray 200 OK
+2019-04-16 17:45:31 URL: https://www.terraform.io/ 200 OK
+2019-04-16 17:45:33 URL: https://github.com/kubernetes-sigs/kubespray/tree/master/contrib/terraform/aws 200 OK
+2019-04-16 17:45:34 URL: https://github.com/kubernetes-sigs/kubespray/tree/master/contrib/terraform/openstack 200 OK
+2019-04-16 17:45:35 URL: https://docs.ansible.com/ansible/latest/user_guide/intro_inventory.html 200 OK
+2019-04-16 17:45:36 URL: https://github.com/kubernetes-sigs/kubespray/blob/master/docs/getting-started.md 200 OK
+2019-04-16 17:45:37 URL: https://docs.ansible.com/ansible/latest/user_guide/playbooks_variables.html 200 OK
+2019-04-16 17:45:39 URL: https://github.com/kubernetes-sigs/kubespray/blob/master/docs/getting-started.md 200 OK
+2019-04-16 17:45:41 URL: https://github.com/kubernetes-sigs/kubespray/blob/master/docs/large-deployments.md 200 OK
+2019-04-16 17:45:42 URL: https://github.com/kubernetes-sigs/kubespray/blob/master/docs/netcheck.md 200 OK
+2019-04-16 17:45:43 URL: https://github.com/kubernetes-sigs/kubespray/blob/master/docs/getting-started.md 200 OK
+2019-04-16 17:45:44 URL: https://github.com/kubernetes-sigs/kubespray/blob/master/docs/getting-started.md 200 OK
+2019-04-16 17:45:45 URL: https://github.com/kubernetes-sigs/kubespray/blob/master/docs/upgrades.md 200 OK
+2019-04-16 17:45:46 URL: https://github.com/kubernetes-sigs/kubespray/blob/master/reset.yml 200 OK
+2019-04-16 17:45:48 URL: https://kubernetes.slack.com/?redir=%2Fmessages%2Fkubespray%2F 200 OK
+2019-04-16 17:45:49 URL: https://github.com/kubernetes-sigs/kubespray/issues 200 OK
+2019-04-16 17:45:51 URL: https://github.com/kubernetes-sigs/kubespray/blob/master/docs/roadmap.md 200 OK
+2019-04-16 17:45:51 URL: https://godoc.org/k8s.io/api/certificates/v1beta1 200 OK
+2019-04-16 17:45:52 URL: https://github.com/rkt/rkt 200 OK
+2019-04-16 17:45:53 URL: https://github.com/cri-o/cri-o 200 OK
+2019-04-16 17:45:54 URL: https://github.com/containerd/containerd 200 OK
+2019-04-16 17:45:55 URL: https://github.com/kubernetes/minikube/blob/master/docs/drivers.md 200 OK
+2019-04-16 17:45:56 URL: https://github.com/kubernetes/minikube/blob/master/docs/drivers.md 200 OK
+2019-04-16 17:45:57 URL: https://github.com/kubernetes/minikube/blob/master/docs/drivers.md 200 OK
+2019-04-16 17:45:58 URL: https://github.com/kubernetes/minikube/blob/master/docs/drivers.md 200 OK
+failed: Connection timed out.
+2019-04-16 17:46:59 URL: https://github.com/containerd/containerd 200 OK
+2019-04-16 17:47:00 URL: https://github.com/cri-o/cri-o 200 OK
+2019-04-16 17:47:01 URL: https://github.com/rkt/rkt 200 OK
+2019-04-16 17:47:02 URL: https://github.com/kubernetes/minikube/blob/master/docs/drivers.md 200 OK
+2019-04-16 17:47:02 URL: https://godoc.org/k8s.io/kubernetes/pkg/kubelet/apis/config 200 OK
+2019-04-16 17:47:03 URL: https://godoc.org/k8s.io/kubernetes/cmd/kube-apiserver/app/options 200 OK
+2019-04-16 17:47:05 URL: https://godoc.org/k8s.io/kubernetes/pkg/proxy/apis/config 200 OK
+2019-04-16 17:47:05 URL: https://godoc.org/k8s.io/kubernetes/pkg/controller/apis/config 200 OK
+2019-04-16 17:47:05 URL: https://godoc.org/github.com/coreos/etcd/etcdserver 200 OK
+2019-04-16 17:47:07 URL: https://godoc.org/k8s.io/kubernetes/pkg/scheduler/apis/config 200 OK
+2019-04-16 17:47:08 URL: https://github.com/docker/machine/tree/master/libmachine 200 OK
+2019-04-16 17:47:09 URL: https://github.com/kubernetes/kubeadm 200 OK
+2019-04-16 17:47:10 URL: https://github.com/kubernetes/community/blob/master/contributors/design-proposals/cluster-lifecycle/local-cluster-ux.md 200 OK
+2019-04-16 17:47:11 URL: https://github.com/kubernetes/minikube/blob/master/docs/contributors/roadmap.md 200 OK
+2019-04-16 17:47:12 URL: https://github.com/kubernetes/minikube/blob/master/CONTRIBUTING.md 200 OK
+2019-04-16 17:47:13 URL: https://github.com/kubernetes/minikube/blob/master/docs/contributors/build_guide.md 200 OK
+2019-04-16 17:47:14 URL: https://github.com/kubernetes/minikube/blob/master/docs/contributors/adding_a_dependency.md 200 OK
+2019-04-16 17:47:15 URL: https://github.com/kubernetes/minikube/blob/master/docs/contributors/adding_an_addon.md 200 OK
+https://github.com/kubernetes/minikube/blob/master/docs/contributors/updating_kubernetes.md:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:47:17 URL: https://kubernetes.slack.com/ 200 OK
+2019-04-16 17:47:17 URL: http://slack.kubernetes.io/ 200 OK
+2019-04-16 17:47:19 URL: https://groups.google.com/forum/ 200 OK
+2019-04-16 17:47:20 URL: https://github.com/kubernetes/kubernetes 200 OK
+2019-04-16 17:47:21 URL: https://github.com/kubernetes/kubernetes 200 OK
+2019-04-16 17:47:22 URL: https://github.com/kubernetes/kubernetes/releases 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 17:48:05 URL: https://ai.google/research/pubs/pub43438 200 OK
+https://github.com/kubernetes/community/blob/:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:48:07 URL: https://github.com/kubernetes/community/blob/master/contributors/design-proposals/architecture/architecture.md 200 OK
+2019-04-16 17:48:08 URL: https://martinfowler.com/articles/microservices.html 200 OK
+2019-04-16 17:48:10 URL: https://www.etymonline.com/word/cybernetics 200 OK
+2019-04-16 17:48:10 URL: https://docs.docker.com/engine/reference/commandline/build/ 200 OK
+2019-04-16 17:48:11 URL: https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615 200 OK
+2019-04-16 17:48:12 URL: https://www.edx.org/course/introduction-to-kubernetes 200 OK
+2019-04-16 17:48:14 URL: https://www.linux.com/blog/learn/chapter/Intro-to-Kubernetes/2017/5/set-cicd-pipeline-kubernetes-part-1-overview 200 OK
+2019-04-16 17:48:15 URL: https://www.linux.com/blog/learn/chapter/Intro-to-Kubernetes/2017/6/set-cicd-pipeline-jenkins-pod-kubernetes-part-2 200 OK
+2019-04-16 17:48:16 URL: https://www.linux.com/blog/learn/chapter/intro-to-kubernetes/2017/6/run-and-scale-distributed-crossword-puzzle-app-cicd-kubernetes-part-3 200 OK
+2019-04-16 17:48:18 URL: https://www.linux.com/blog/learn/chapter/intro-to-kubernetes/2017/6/set-cicd-distributed-crossword-puzzle-app-kubernetes-part-4 200 OK
+2019-04-16 17:48:18 URL: https://katacoda.com/embed.js 200 OK
+2019-04-16 17:48:18 URL: https://nodejs.org/en/ 200 OK
+2019-04-16 17:48:19 URL: https://github.com/kubernetes/kubernetes 200 OK
+2019-04-16 17:48:19 URL: https://www.docker.com/ 200 OK
+2019-04-16 17:48:19 URL: https://coreos.com/rkt/ 200 OK
+2019-04-16 17:48:20 URL: https://github.com/kubernetes/minikube 200 OK
+2019-04-16 17:48:20 URL: https://katacoda.com/embed.js 200 OK
+2019-04-16 17:48:20 URL: https://katacoda.com/embed.js 200 OK
+2019-04-16 17:48:20 URL: https://katacoda.com/embed.js 200 OK
+2019-04-16 17:48:20 URL: https://katacoda.com/embed.js 200 OK
+2019-04-16 17:48:20 URL: https://fonts.googleapis.com/css?family=Roboto+Slab:300 200 OK
+2019-04-16 17:48:20 URL: https://katacoda.com/embed.js 200 OK
+2019-04-16 17:48:22 URL: https://github.com/kubernetes/community/blob/master/contributors/guide/owners.md 200 OK
+https://github.com/orgs/kubernetes/teams.:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:48:23 URL: https://queue.acm.org/detail.cfm?id=2898444 200 OK
+2019-04-16 17:48:26 URL: https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/ 200 OK
+2019-04-16 17:48:26 URL: https://www.lfasiallc.com/events/kubecon-cloudnativecon-china-2019/ 200 OK
+2019-04-16 17:48:26 URL: https://www.youtube.com/embed/H06qrNmGqyE?autoplay=1 200 OK
+wget: unable to resolve host address ‘etcd_discovery’
+wget: unable to resolve host address ‘etcd’
+wget: unable to resolve host address ‘opa.federation-system.svc.cluster.local’
+wget: unable to resolve host address ‘hello’
+2019-04-16 17:49:07 URL: http://www.apache.org/licenses/LICENSE-2.0 200 OK
+2019-04-16 17:49:08 URL: http://kubernetes.io/ 200 OK
+2019-04-16 17:49:09 URL: http://www.apache.org/licenses/LICENSE-2.0 200 OK
+2019-04-16 17:49:10 URL: https://github.com/kubernetes/kubernetes/issues/20951 200 OK
+2019-04-16 17:49:11 URL: http://peter-hoffmann.com/2012/python-simple-queue-redis-queue.html 200 OK
+https://redis.io/commands/rpoplpush:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:49:13 URL: http://stackoverflow.com/questions/8247605/configuring-so-that-pip-install-can-work-from-github 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 17:49:55 URL: https://github.com/kubernetes/community/tree/master/sig-docs 200 OK
+2019-04-16 17:49:56 URL: https://groups.google.com/forum/ 200 OK
+2019-04-16 17:49:58 URL: https://kubernetes.slack.com/?redir=%2Fmessages%2Fsig-docs%2F 200 OK
+2019-04-16 17:49:59 URL: https://github.com/kubernetes-sigs/federation-v2 200 OK
+2019-04-16 17:50:01 URL: https://www.katacoda.com/courses/kubernetes/playground 200 OK
+https://labs.play-with-k8s.com/:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:50:04 URL: https://sysdig.com/blog/monitoring-kubernetes-with-sysdig-cloud/ 200 OK
+2019-04-16 17:50:05 URL: https://puppet.com/blog/announcing-kream-and-new-kubernetes-helm-and-docker-modules 200 OK
+2019-04-16 17:50:05 URL: https://www.citrix.com/networking/microservices.html 200 OK
+2019-04-16 17:50:06 URL: https://www.cockroachlabs.com/blog/running-cockroachdb-on-kubernetes/ 200 OK
+2019-04-16 17:50:08 URL: https://www.weave.works/technologies/the-journey-to-kubernetes/ 200 OK
+2019-04-16 17:50:08 URL: https://tectonic.com/press/intel-coreos-collaborate-on-openstack-with-kubernetes.html 200 OK
+2019-04-16 17:50:09 URL: https://platform9.com/wp-content/uploads/2017/06/kubernetes.png 200 OK
+2019-04-16 17:50:10 URL: https://docs.datadoghq.com/integrations/kubernetes/ 200 OK
+https://www.juniper.net/us/en/wwwucts-services/network-management/appformix/:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:50:12 URL: https://info.crunchydata.com/blog/advanced-crunchy-containers-for-postgresql 200 OK
+2019-04-16 17:50:13 URL: https://blog.aquasec.com/security-best-practices-for-kubernetes-deployment 200 OK
+2019-04-16 17:50:14 URL: https://puppet.com/products 200 OK
+2019-04-16 17:50:15 URL: https://github.com/nuagenetworks/nuage-kubernetes 200 OK
+2019-04-16 17:50:16 URL: https://sematext.com/kubernetes/ 200 OK
+https://www.diamanti.com/products/:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:50:19 URL: https://www.aporeto.com/opensource/ 200 OK
+2019-04-16 17:50:20 URL: https://giantswarm.io/ 200 OK
+2019-04-16 17:50:20 URL: https://giantswarm.io/product/ 200 OK
+2019-04-16 17:50:21 URL: https://hasura.io/ 200 OK
+2019-04-16 17:50:22 URL: https://www.mirantis.com/software/kubernetes/ 200 OK
+ERROR: cannot verify content.mirantis.com's certificate, issued by ‘CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\\, Inc.,L=Scottsdale,ST=Arizona,C=US’:
+  Issued certificate has expired.
+To connect to content.mirantis.com insecurely, use `--no-check-certificate'.
+2019-04-16 17:50:23 URL: https://kubernetic.com/ 200 OK
+https://www.reactiveops.com/the-kubernetes-experts/:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:50:25 URL: https://livewyer.io/services/kubernetes-experts/ 200 OK
+2019-04-16 17:50:28 URL: https://www.samsungsds.com/us/en/index.html 200 OK
+2019-04-16 17:50:30 URL: https://container-solutions.com/resources/kubernetes/ 200 OK
+2019-04-16 17:50:32 URL: https://container-solutions.com/resources/kubernetes/ 200 OK
+2019-04-16 17:50:33 URL: https://www.jetstack.io/ 200 OK
+2019-04-16 17:50:33 URL: http://docs.projectcalico.org/latest/getting-started/kubernetes/ 200 OK
+2019-04-16 17:50:34 URL: https://harbur.io/ 200 OK
+2019-04-16 17:50:36 URL: https://spotinst.com/blog/elastigroup-kubernetes-minions-steroids/ 200 OK
+https://www.inwinstack.com/en/solutions-en/:
+Remote file does not exist -- broken link!!!
+https://www.inwinstack.com/en/solutions-en/:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:50:48 URL: https://github.com/inwinstack/kube-ansible 200 OK
+2019-04-16 17:50:49 URL: https://www.semantix.com.br/ 200 OK
+2019-04-16 17:50:52 URL: https://www.asmtech.com/ 200 OK
+2019-04-16 17:50:56 URL: https://www.infracloud.io/state-of-kubernetes/ 200 OK
+2019-04-16 17:50:57 URL: https://github.com/signalfx/integrations/tree/master/kubernetes 200 OK
+2019-04-16 17:50:58 URL: https://github.com/pires/kubernetes-nats-cluster 200 OK
+2019-04-16 17:50:59 URL: http://rx-m.com/training/kubernetes-training/ 200 OK
+2019-04-16 17:50:59 URL: http://rx-m.com/training/kubernetes-training/ 200 OK
+2019-04-16 17:50:59 URL: https://www.emergingtechnologyadvisors.com/services/kubernetes.html 200 OK
+2019-04-16 17:51:01 URL: https://cloudplex.io/ 200 OK
+2019-04-16 17:51:03 URL: https://www.kumina.nl/managed_kubernetes 200 OK
+2019-04-16 17:51:04 URL: https://docops.ca.com/ca-continuous-delivery-director/integrations/en/plug-ins/kubernetes-plug-in 200 OK
+wget: unable to resolve host address ‘www.coscale.com’
+2019-04-16 17:51:06 URL: https://supergiant.io/blog/supergiant-packing-algorithm-unique-save-money/ 200 OK
+2019-04-16 17:51:09 URL: https://avinetworks.com/docs/ 200 OK
+2019-04-16 17:51:09 URL: https://codecrux.com/kubernetes/ 200 OK
+2019-04-16 17:51:14 URL: https://cloud.netapp.com/home 200 OK
+2019-04-16 17:51:16 URL: https://www.stackoverdrive.net/kubernetes-consulting/ 200 OK
+failed: Connection timed out.
+failed: Connection timed out.
+failed: Connection timed out.
+2019-04-16 17:54:17 URL: https://www.datawire.io/ 200 OK
+2019-04-16 17:54:17 URL: https://docs.konghq.com/install/kubernetes/ 200 OK
+2019-04-16 17:54:18 URL: http://github.com/f5networks 200 OK
+2019-04-16 17:54:19 URL: http://lovable.tech/ 200 OK
+https://www.stackstate.com/platform/container-monitoring:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:54:23 URL: https://www.inexcco.com/ 200 OK
+2019-04-16 17:54:24 URL: https://bitnami.com/kubernetes 200 OK
+2019-04-16 17:54:25 URL: https://www.nebulaworks.com/container-platforms 200 OK
+2019-04-16 17:54:31 URL: https://easynube.co.uk/devopsnube/ 200 OK
+2019-04-16 17:54:35 URL: https://www.opcito.com/blogs/kubernetes-1.11-what-to-look-forward-to/ 200 OK
+2019-04-16 17:54:36 URL: https://blog.thecodeteam.com/ 200 OK
+2019-04-16 17:54:39 URL: https://www.instana.com/supported-technologies/ 200 OK
+failed: Connection timed out.
+2019-04-16 17:55:41 URL: https://www.treasuredata.com/ 200 OK
+2019-04-16 17:55:43 URL: https://kenzan.com/?ref=kubernetes 200 OK
+2019-04-16 17:55:44 URL: https://www.newcontext.com/devsecops-infrastructure-automation-orchestration/ 200 OK
+2019-04-16 17:55:44 URL: https://banzaicloud.com/platform/ 200 OK
+2019-04-16 17:55:44 URL: https://kublr.com/ 200 OK
+2019-04-16 17:55:45 URL: https://control-plane.io/ 200 OK
+2019-04-16 17:55:46 URL: https://www.nirmata.com/ 200 OK
+2019-04-16 17:55:46 URL: https://www.nirmata.com/ 200 OK
+2019-04-16 17:55:46 URL: https://tenxcloud.com/ 200 OK
+2019-04-16 17:55:47 URL: https://www.tenxcloud.com/ 200 OK
+2019-04-16 17:55:47 URL: https://www.twistlock.com/ 200 OK
+2019-04-16 17:55:50 URL: https://endocode.com/kubernetes/ 200 OK
+https://www.accenture.com/us-en/service-application-containers:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:55:52 URL: https://biarca.io/ 200 OK
+2019-04-16 17:55:57 URL: https://www.claranet.co.uk/hosting/google-cloud-platform-consulting-and-managed-services 200 OK
+2019-04-16 17:55:58 URL: https://cloudkite.io/ 200 OK
+2019-04-16 17:56:00 URL: https://www.cloudops.com/ 200 OK
+ERROR: cannot verify www.ghostcloud.cn's certificate, issued by ‘CN=Encryption Everywhere DV TLS CA - G1,OU=www.digicert.com,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.ghostcloud.cn insecurely, use `--no-check-certificate'.
+ERROR: cannot verify www.ghostcloud.cn's certificate, issued by ‘CN=Encryption Everywhere DV TLS CA - G1,OU=www.digicert.com,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.ghostcloud.cn insecurely, use `--no-check-certificate'.
+2019-04-16 17:56:03 URL: https://www.contino.io/ 200 OK
+2019-04-16 17:56:04 URL: https://www.boozallen.com/ 200 OK
+2019-04-16 17:56:06 URL: https://blog.bigbinary.com/categories/kubernetes/ 200 OK
+2019-04-16 17:56:06 URL: https://www.meetup.com/Triangle-Kubernetes-Meetup/files/ 200 OK
+2019-04-16 17:56:07 URL: https://www.creationline.com/ci 200 OK
+https://www.datacore.com/solutions/virtualization/containerization/:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:56:10 URL: https://www.elastifile.com/ 200 OK
+2019-04-16 17:56:10 URL: https://about.gitlab.com/2016/11/14/idea-to-production/ 200 OK
+2019-04-16 17:56:12 URL: https://gravitational.com/gravity/ 200 OK
+2019-04-16 17:56:13 URL: https://www.hitachivantara.com/en-us/products/converged-systems.orchestration-automation.html?source=hds-redirect 200 OK
+2019-04-16 17:56:13 URL: https://www.infosys.com/ 200 OK
+2019-04-16 17:56:14 URL: https://jfrog.com/resource-center/usecases/ 200 OK
+ERROR: cannot verify www.univa.com's certificate, issued by ‘CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\\, Inc.,L=Scottsdale,ST=Arizona,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.univa.com insecurely, use `--no-check-certificate'.
+2019-04-16 17:56:19 URL: https://neuvector.com/kubernetes-security-solutions/ 200 OK
+https://www.opszero.com/kubernetes.html:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:56:23 URL: https://www.shiwaforce.com/en/ 200 OK
+2019-04-16 17:56:24 URL: https://www.softserveinc.com/en-us/blogs/kubernetes-travis-ci/ 200 OK
+ERROR: cannot verify www.solinea.com's certificate, issued by ‘CN=Starfield Secure Certificate Authority - G2,OU=http://certs.starfieldtech.com/repository/,O=Starfield Technologies\\, Inc.,L=Scottsdale,ST=Arizona,C=US’:
+  Issued certificate has expired.
+To connect to www.solinea.com insecurely, use `--no-check-certificate'.
+2019-04-16 17:56:26 URL: https://sphereinc.com/services/technology/kubernetes/ 200 OK
+https://www.altoros.com/404.html:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:56:31 URL: https://cloudbase.it/easily-deploy-a-kubernetes-cluster-on-openstack/ 200 OK
+2019-04-16 17:56:31 URL: https://codefresh.io/kubernetes-deploy/ 200 OK
+2019-04-16 17:56:35 URL: http://netapp.io/2016/12/23/introducing-trident-dynamic-persistent-volume-provisioner-kubernetes/ 200 OK
+2019-04-16 17:56:36 URL: https://openebs.io/ 200 OK
+2019-04-16 17:56:36 URL: https://cloud.google.com/kubernetes-engine/ 200 OK
+2019-04-16 17:56:37 URL: https://superorbit.al/workshops/kubernetes/ 200 OK
+2019-04-16 17:56:39 URL: https://apprenda.com/wp-content/uploads/kismatic.gif 200 OK
+2019-04-16 17:56:39 URL: https://www.openshift.com/ 200 OK
+2019-04-16 17:56:40 URL: https://rancher.com/kubernetes/ 200 OK
+2019-04-16 17:56:42 URL: https://www.ubuntu.com/kubernetes 200 OK
+2019-04-16 17:56:42 URL: https://www.ubuntu.com/kubernetes 200 OK
+2019-04-16 17:56:42 URL: https://www.cisco.com/ 200 OK
+2019-04-16 17:56:43 URL: https://www.cloudfoundry.org/container-runtime/ 200 OK
+2019-04-16 17:56:43 URL: https://www.ibm.com/cloud/container-service 200 OK
+2019-04-16 17:56:44 URL: https://www.ibm.com/cloud/container-service 200 OK
+2019-04-16 17:56:45 URL: https://github.com/samsung-cnct/kraken 200 OK
+https://www.ibm.com/cloud-computing/products/ibm-cloud-private/:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:56:47 URL: https://github.com/kinvolk/kube-spawn 200 OK
+2019-04-16 17:56:48 URL: https://aws.amazon.com/quickstart/architecture/vmware-kubernetes/ 200 OK
+2019-04-16 17:56:49 URL: https://heptio.com/ 200 OK
+2019-04-16 17:56:49 URL: https://stackpoint.io/ 200 OK
+2019-04-16 17:56:50 URL: https://stackpoint.io/ 200 OK
+2019-04-16 17:56:52 URL: https://caicloud.io/products/compass 200 OK
+2019-04-16 17:56:53 URL: https://caicloud.io/ 200 OK
+2019-04-16 17:56:54 URL: https://cn.aliyun.com/product/containerservice?spm=5176.8142029.388261.219.3836dbccRpJ5e9 200 OK
+2019-04-16 17:56:54 URL: https://cloud.tencent.com/product/ccs?lang=en 200 OK
+2019-04-16 17:56:54 URL: https://www.huaweicloud.com/product/cce.html 200 OK
+2019-04-16 17:57:01 URL: https://developer.huawei.com/ict/en/site-paas 200 OK
+2019-04-16 17:57:02 URL: https://github.com/kubernetes/kubernetes/tree/master/cluster 200 OK
+2019-04-16 17:57:03 URL: https://typhoon.psdn.io/ 200 OK
+2019-04-16 17:57:04 URL: https://www.163yun.com/product/container-service-dedicated 200 OK
+2019-04-16 17:57:06 URL: https://www.loodse.com/ 200 OK
+2019-04-16 17:57:06 URL: https://www.loodse.com/ 200 OK
+2019-04-16 17:57:07 URL: https://training.linuxfoundation.org/ 200 OK
+2019-04-16 17:57:07 URL: https://www.loodse.com/ 200 OK
+2019-04-16 17:57:08 URL: https://www.lntinfotech.com/ 200 OK
+2019-04-16 17:57:10 URL: https://github.com/Azure/acs-engine 200 OK
+2019-04-16 17:57:10 URL: https://docs.microsoft.com/en-us/azure/aks/ 200 OK
+2019-04-16 17:57:11 URL: https://cloud.oracle.com/containers/pipelines 200 OK
+2019-04-16 17:57:12 URL: https://github.com/oracle/terraform-kubernetes-installer 200 OK
+2019-04-16 17:57:12 URL: https://mesosphere.com/product/kubernetes-engine/ 200 OK
+2019-04-16 17:57:12 URL: https://appscode.com/products/pharmer/ 200 OK
+2019-04-16 17:57:12 URL: https://cloudplatform.sap.com/index.html 200 OK
+2019-04-16 17:57:12 URL: https://www.oracle.com/linux/ 200 OK
+2019-04-16 17:57:13 URL: https://github.com/kubernetes-incubator/bootkube 200 OK
+2019-04-16 17:57:14 URL: https://coreos.com/ 200 OK
+2019-04-16 17:57:15 URL: https://github.com/joyent/triton-kubernetes 200 OK
+2019-04-16 17:57:17 URL: http://www.wise2c.com/solution 200 OK
+2019-04-16 17:57:18 URL: http://www.wise2c.com/ 200 OK
+2019-04-16 17:57:19 URL: https://www.docker.com/products/docker-enterprise 200 OK
+2019-04-16 17:57:26 URL: https://www.daocloud.io/dce 200 OK
+2019-04-16 17:57:27 URL: https://www.daocloud.io/dce 200 OK
+2019-04-16 17:57:28 URL: https://www.daocloud.io/dce 200 OK
+2019-04-16 17:57:29 URL: https://www.suse.com/products/caas-platform/ 200 OK
+2019-04-16 17:57:30 URL: https://cloud.vmware.com/pivotal-container-service 200 OK
+2019-04-16 17:57:30 URL: https://cloud.vmware.com/pivotal-container-service 200 OK
+2019-04-16 17:57:32 URL: http://www.alauda.cn/product/detail/id/68.html 200 OK
+2019-04-16 17:57:33 URL: http://www.alauda.cn/product/detail/id/68.html 200 OK
+https://www.easystack.cn/eks/:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:57:39 URL: https://coreos.com/tectonic/ 200 OK
+2019-04-16 17:57:40 URL: https://www.gopaddle.io/ 200 
+2019-04-16 17:57:40 URL: https://vexxhost.com/public-cloud/container-services/kubernetes/ 200 OK
+https://www.componentsoft.eu/?p=3925:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:57:49 URL: https://datera.io/solutions/ 200 OK
+2019-04-16 17:57:50 URL: https://containership.io/ 200 OK
+2019-04-16 17:57:51 URL: https://hub.docker.com/r/purestorage/k8s/ 200 OK
+2019-04-16 17:57:53 URL: https://elastisys.com/kubernetes/ 200 OK
+2019-04-16 17:57:54 URL: https://portworx.com/use-case/kubernetes-storage/ 200 OK
+2019-04-16 17:57:55 URL: https://objectcomputing.com/services/cloud-solutions/devops 200 OK
+2019-04-16 17:57:57 URL: https://isotoma.com/blog/2017/10/24/containerisation-tips-for-using-kubernetes-with-aws/ 200 OK
+https://www.servian.com/cloud-and-technology/:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:58:01 URL: http://redzara.com/cloud-service 200 OK
+2019-04-16 17:58:02 URL: https://dataspine.io/ 200 OK
+ERROR: cannot verify cloudbourne.com's certificate, issued by ‘CN=USERTrust RSA Domain Validation Secure Server CA,O=The USERTRUST Network,L=Jersey City,ST=New Jersey,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to cloudbourne.com insecurely, use `--no-check-certificate'.
+ERROR: cannot verify cloudbourne.com's certificate, issued by ‘CN=USERTrust RSA Domain Validation Secure Server CA,O=The USERTRUST Network,L=Jersey City,ST=New Jersey,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to cloudbourne.com insecurely, use `--no-check-certificate'.
+failed: Connection timed out.
+2019-04-16 17:59:07 URL: https://www.naitways.com/ 200 OK
+2019-04-16 17:59:08 URL: https://kinvolk.io/kubernetes/ 200 OK
+2019-04-16 17:59:08 URL: https://www.cascadeo.com/ 200 OK
+2019-04-16 17:59:09 URL: https://elastisys.com/services/ 200 OK
+2019-04-16 17:59:10 URL: https://greenfieldguild.com/ 200 OK
+2019-04-16 17:59:10 URL: https://polarseven.com/what-we-do/kubernetes/ 200 OK
+2019-04-16 17:59:12 URL: https://www.kloia.com/kubernetes 200 OK
+2019-04-16 17:59:12 URL: https://www.threatstack.com/press-releases/threat-stack-announces-acquisition-of-runtime-application-security-vendor-bluefyre 200 OK
+2019-04-16 17:59:13 URL: https://harness.io/harness-continuous-delivery/secret-sauce/smart-automation/ 200 OK
+2019-04-16 17:59:14 URL: https://www.wavefront.com/solutions/container-monitoring/ 200 OK
+2019-04-16 17:59:15 URL: https://www.bloombase.com/interoperability/kubernetes.html 200 OK
+2019-04-16 17:59:16 URL: https://kasten.io/product/ 200 OK
+2019-04-16 17:59:16 URL: https://humio.com/ 200 OK
+2019-04-16 17:59:17 URL: https://www.outcoldsolutions.com/ 200 OK
+2019-04-16 17:59:21 URL: https://www.syseleven.de/ 200 OK
+2019-04-16 17:59:23 URL: https://docs.lenses.io/ 200 OK
+2019-04-16 17:59:25 URL: https://redislabs.com/blog/getting-started-with-kubernetes-and-redis-using-redis-enterprise/ 200 OK
+https://diamanti.com/:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:59:26 URL: http://www.eking-tech.com/ 200 OK
+2019-04-16 17:59:27 URL: http://harmonycloud.cn/products/rongqiyun/ 200 OK
+2019-04-16 17:59:28 URL: http://woqutech.com/product_qfusion.html 200 OK
+2019-04-16 17:59:28 URL: https://cloud.baidu.com/product/cce.html 200 OK
+2019-04-16 17:59:34 URL: https://sdnfv.zte.com.cn/?locale=en 200 OK
+2019-04-16 17:59:36 URL: http://www.automatic-server.com/paas.html 200 OK
+2019-04-16 17:59:36 URL: https://circulosiete.com/consultoria/kubernetes/ 200 OK
+2019-04-16 17:59:38 URL: http://devopsguru.ca/workshop 200 OK
+2019-04-16 17:59:40 URL: https://www.ein.io/ 200 OK
+2019-04-16 17:59:42 URL: https://www.guardicore.com/ 200 OK
+https://assets.hedvig.io/blog/provisioning-hedvig-storage-with-kubernetes:
+Remote file does not exist -- broken link!!!
+2019-04-16 17:59:45 URL: https://www.hpe.com/us/en/storage/containers.html 200 OK
+2019-04-16 17:59:47 URL: https://blog.jetbrains.com/teamcity/2017/10/teamcity-kubernetes-support-plugin/ 200 OK
+2019-04-16 17:59:48 URL: http://www.opensense.fr/en/kubernetes-en/ 200 OK
+2019-04-16 17:59:48 URL: https://cloudplatform.sap.com/index.html 200 OK
+2019-04-16 17:59:51 URL: https://www.mobilise.cloud/serverless 200 OK
+2019-04-16 17:59:51 URL: https://aws.amazon.com/eks/ 200 OK
+2019-04-16 17:59:55 URL: https://www.kontena.io/pharos/ 200 OK
+2019-04-16 17:59:57 URL: https://de.nttdata.com/services/digital-value-creation 200 OK
+https://www.octo.academy/fr/formation/275-kubernetes-utiliser-architecturer-et-administrer-une-plateforme-de-conteneurs:
+Remote file does not exist -- broken link!!!
+2019-04-16 18:00:00 URL: https://logdna.com/kubernetes/ 200 OK
+2019-04-16 18:00:01 URL: https://github.com/kelseyhightower/kubernetes-cluster-federation 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:01:22 URL: http://kubernetes.io/ 200 OK
+2019-04-16 18:01:23 URL: https://www.okd.io/ 200 OK
+2019-04-16 18:01:23 URL: https://www.redhat.com/en 200 OK
+2019-04-16 18:01:23 URL: https://www.python.org/ 200 OK
+2019-04-16 18:01:25 URL: https://www.couchbase.com/ 200 OK
+2019-04-16 18:01:26 URL: http://kubernetes.io/ 200 OK
+2019-04-16 18:01:26 URL: https://www.openshift.com/ 200 OK
+2019-04-16 18:01:26 URL: https://www.redhat.com/en 200 OK
+2019-04-16 18:01:27 URL: https://prometheus.io/ 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:02:12 URL: https://www.nbcunicareers.com/our-businesses/nbc-sports-group 200 OK
+2019-04-16 18:02:13 URL: https://www.golfnow.com/ 200 OK
+2019-04-16 18:02:13 URL: https://www.docker.com/ 200 OK
+2019-04-16 18:02:14 URL: http://kubernetes.io/ 200 OK
+2019-04-16 18:02:14 URL: https://www.golfnow.com/ 200 OK
+2019-04-16 18:02:14 URL: https://www.microsoft.com/net 200 OK
+2019-04-16 18:02:15 URL: https://www.microsoft.com/en-cy/sql-server/sql-server-2016 200 OK
+2019-04-16 18:02:15 URL: https://nodejs.org/en/ 200 OK
+2019-04-16 18:02:15 URL: https://www.mongodb.com/ 200 OK
+2019-04-16 18:02:15 URL: https://www.docker.com/ 200 OK
+2019-04-16 18:02:16 URL: http://kubernetes.io/ 200 OK
+2019-04-16 18:02:18 URL: https://www.nbc.com/ 200 OK
+2019-04-16 18:02:19 URL: https://devcenter.heroku.com/articles/mongohq 200 OK
+2019-04-16 18:02:20 URL: https://cloud.google.com/compute/ 200 OK
+2019-04-16 18:02:20 URL: https://www.microsoft.com/net/core 200 OK
+2019-04-16 18:02:21 URL: https://github.com/drone/drone 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+http://www.ocadogroup.com/:
+Remote file does not exist -- broken link!!!
+2019-04-16 18:03:02 URL: http://fortune.com/2018/05/17/ocado-kroger-warehouse-automation-amazon-walmart/ 200 OK
+2019-04-16 18:03:02 URL: https://puppet.com/ 200 OK
+2019-04-16 18:03:02 URL: https://www.docker.com/ 200 OK
+2019-04-16 18:03:03 URL: https://github.com/coreos/fleet 200 OK
+2019-04-16 18:03:04 URL: https://www.openstack.org/ 200 OK
+2019-04-16 18:03:05 URL: https://kubernetes.io/ 200 OK
+2019-04-16 18:03:06 URL: https://github.com/kubernetes/kubeadm/ 200 OK
+2019-04-16 18:03:06 URL: https://github.com/containernetworking 200 OK
+2019-04-16 18:03:07 URL: https://www.weave.works/oss/net/ 200 OK
+2019-04-16 18:03:07 URL: https://coreos.com/operators/prometheus/docs/latest/user-guides/getting-started.html 200 OK
+2019-04-16 18:03:07 URL: https://www.fluentd.org/ 200 OK
+2019-04-16 18:03:08 URL: https://opentracing.io/ 200 OK
+2019-04-16 18:03:08 URL: https://prometheus.io/ 200 OK
+2019-04-16 18:03:08 URL: https://grafana.com/ 200 OK
+2019-04-16 18:03:08 URL: http://fortune.com/2018/05/17/ocado-kroger-warehouse-automation-amazon-walmart/ 200 OK
+ERROR: cannot verify www.codeforlife.education's certificate, issued by ‘CN=DigiCert SHA2 Secure Server CA,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.codeforlife.education insecurely, use `--no-check-certificate'.
+2019-04-16 18:03:09 URL: https://kubernetes.io/ 200 OK
+2019-04-16 18:03:11 URL: https://github.com/kubernetes/kubeadm 200 OK
+2019-04-16 18:03:11 URL: https://github.com/containernetworking 200 OK
+2019-04-16 18:03:12 URL: https://www.weave.works/oss/net/ 200 OK
+2019-04-16 18:03:12 URL: https://coreos.com/operators/prometheus/docs/latest/user-guides/getting-started.html 200 OK
+2019-04-16 18:03:12 URL: https://www.fluentd.org/ 200 OK
+2019-04-16 18:03:12 URL: http://opentracing.io/ 200 OK
+2019-04-16 18:03:13 URL: https://www.weave.works/oss/net/ 200 OK
+2019-04-16 18:03:16 URL: https://iperf.fr/ 200 OK
+2019-04-16 18:03:17 URL: https://prometheus.io/ 200 OK
+2019-04-16 18:03:17 URL: https://grafana.com/ 200 OK
+2019-04-16 18:03:18 URL: https://github.com/ocadotechnology 200 OK
+2019-04-16 18:03:18 URL: http://fortune.com/2018/05/17/ocado-kroger-warehouse-automation-amazon-walmart/ 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:04:39 URL: https://firebase.google.com/ 200 OK
+2019-04-16 18:04:40 URL: https://www.heroku.com/ 200 OK
+2019-04-16 18:04:40 URL: https://www.docker.com/ 200 OK
+2019-04-16 18:04:40 URL: https://cloud.google.com/kubernetes-engine/ 200 OK
+2019-04-16 18:04:41 URL: http://kubernetes.io/ 200 OK
+2019-04-16 18:04:41 URL: https://prometheus.io/ 200 OK
+2019-04-16 18:04:42 URL: https://firebase.google.com/ 200 OK
+2019-04-16 18:04:43 URL: https://www.heroku.com/ 200 OK
+2019-04-16 18:04:43 URL: https://www.docker.com/ 200 OK
+2019-04-16 18:04:43 URL: https://cloud.google.com/kubernetes-engine/ 200 OK
+2019-04-16 18:04:44 URL: http://kubernetes.io/ 200 OK
+2019-04-16 18:04:44 URL: https://prometheus.io/ 200 OK
+2019-04-16 18:04:44 URL: https://aws.amazon.com/ec2/ 200 OK
+2019-04-16 18:04:45 URL: https://cloud.google.com/stackdriver/ 200 OK
+2019-04-16 18:04:46 URL: https://newrelic.com/ 200 OK
+2019-04-16 18:04:47 URL: https://github.com/peardeck/prometheus-user-metrics 200 OK
+2019-04-16 18:04:50 URL: https://pear-deck.breezy.hr/ 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:05:31 URL: https://www.nextplatform.com/2015/11/12/inside-ebays-shift-to-kubernetes-and-containers-atop-openstack/ 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:06:12 URL: http://kubernetes.io/ 200 OK
+2019-04-16 18:06:12 URL: https://shop.nordstrom.com/ 200 OK
+2019-04-16 18:06:14 URL: https://www.chef.io/products/chef-infra/ 200 OK
+2019-04-16 18:06:14 URL: https://prometheus.io/ 200 OK
+2019-04-16 18:06:14 URL: https://grafana.com/ 200 OK
+2019-04-16 18:06:14 URL: https://www.fluentd.org/ 200 OK
+2019-04-16 18:06:14 URL: https://www.elastic.co/ 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:06:55 URL: https://blogs.wsj.com/cio/2016/02/24/big-changes-in-goldmans-software-emerge-from-small-containers/ 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:07:36 URL: https://www.youtube.com/watch?v=4gyeixJLabo&feature=youtu.be 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:08:57 URL: https://www.nextplatform.com/2016/05/24/samsung-experts-put-kubernetes-paces/ 200 OK
+2019-04-16 18:08:58 URL: https://www.openstack.org/videos/video/running-kubernetes-on-openstack-at-liveperson 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:10:21 URL: https://thenewstack.io/wepay-kubernetes-changed-business/ 200 OK
+2019-04-16 18:10:22 URL: https://www.youtube.com/watch?v=lmeFkH-rHII&feature=youtu.be 200 OK
+2019-04-16 18:10:23 URL: https://site.adform.com/ 200 OK
+2019-04-16 18:10:23 URL: https://www.openstack.org/ 200 OK
+2019-04-16 18:10:24 URL: https://prometheus.io/ 200 OK
+2019-04-16 18:10:24 URL: https://kubernetes.io/ 200 OK
+2019-04-16 18:10:25 URL: https://grafana.com/ 200 OK
+2019-04-16 18:10:25 URL: https://www.wsj.com/articles/fake-ad-operation-used-to-steal-from-publishers-is-uncovered-1511290981 200 OK
+2019-04-16 18:10:26 URL: https://site.adform.com/media/85132/hyphbot_whitepaper_.pdf 200 OK
+2019-04-16 18:10:27 URL: https://www.openstack.org/ 200 OK
+2019-04-16 18:10:28 URL: https://github.com/virtual-kubelet/virtual-kubelet 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:11:49 URL: https://rancher.com/ 200 OK
+2019-04-16 18:11:49 URL: https://prometheus.io/ 200 OK
+2019-04-16 18:11:50 URL: https://github.com/jaegertracing/jaeger 200 OK
+https://www.sling.com/:
+Remote file does not exist -- broken link!!!
+2019-04-16 18:11:51 URL: https://www.dish.com/ 200 OK
+2019-04-16 18:11:51 URL: https://rancher.com/ 200 OK
+2019-04-16 18:11:51 URL: https://prometheus.io/ 200 OK
+2019-04-16 18:11:53 URL: https://github.com/jaegertracing/jaeger 200 OK
+2019-04-16 18:11:53 URL: https://www.youtube.com/watch?v=F3iMkz_NSvU 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:12:34 URL: https://www.youtube.com/watch?v=YkOY7DgXKyw&feature=youtu.be 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:13:15 URL: https://www.naic.org/ 200 OK
+2019-04-16 18:13:15 URL: https://www.cncf.io/ 200 OK
+2019-04-16 18:13:16 URL: https://prometheus.io/ 200 OK
+2019-04-16 18:13:16 URL: https://kubernetes.io/ 200 OK
+2019-04-16 18:13:18 URL: https://github.com/kubernetes/kops 200 OK
+2019-04-16 18:13:18 URL: https://grpc.io/ 200 OK
+2019-04-16 18:13:18 URL: https://www.envoyproxy.io/ 200 OK
+2019-04-16 18:13:19 URL: http://opentracing.io/ 200 OK
+2019-04-16 18:13:19 URL: https://www.jaegertracing.io/ 200 OK
+2019-04-16 18:13:19 URL: https://www.fluentd.org/ 200 OK
+2019-04-16 18:13:20 URL: https://www.capitalone.com/ 200 OK
+2019-04-16 18:13:20 URL: https://kubernetes.io/ 200 OK
+2019-04-16 18:13:20 URL: https://www.youtube.com/embed/UHVW01ksg-s 200 OK
+2019-04-16 18:13:21 URL: https://flink.apache.org/ 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:14:01 URL: https://azure.microsoft.com/en-us/ 200 OK
+2019-04-16 18:14:02 URL: https://kubernetes.io/ 200 OK
+2019-04-16 18:14:03 URL: https://azure.microsoft.com/en-us/ 200 OK
+2019-04-16 18:14:03 URL: https://aws.amazon.com/ 200 OK
+2019-04-16 18:14:03 URL: https://azure.microsoft.com/en-us/ 200 OK
+2019-04-16 18:14:05 URL: https://konghq.com/kong/ 200 OK
+2019-04-16 18:14:05 URL: http://wicked.haufe.io/ 200 OK
+2019-04-16 18:14:05 URL: https://coreos.com/tectonic/ 200 OK
+2019-04-16 18:14:06 URL: https://azure.microsoft.com/en-us/services/kubernetes-service/ 200 OK
+2019-04-16 18:14:06 URL: https://aws.amazon.com/ecs/ 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:15:27 URL: https://www.nokia.com/ja_jp/ 200 OK
+2019-04-16 18:15:27 URL: https://cloud.vmware.com/ 200 OK
+2019-04-16 18:15:28 URL: https://www.openstack.org/ 200 OK
+2019-04-16 18:15:28 URL: https://networks.nokia.com/products/telecom-application-server 200 OK
+2019-04-16 18:15:29 URL: https://helm.sh/ 200 OK
+2019-04-16 18:15:29 URL: https://grpc.io/ 200 OK
+2019-04-16 18:15:30 URL: https://github.com/containernetworking 200 OK
+2019-04-16 18:15:30 URL: https://prometheus.io/ 200 OK
+2019-04-16 18:15:30 URL: https://www.envoyproxy.io/ 200 OK
+2019-04-16 18:15:32 URL: https://coredns.io/ 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:16:13 URL: https://www.blablacar.com/ 200 OK
+2019-04-16 18:16:14 URL: https://coreos.com/rkt/ 200 OK
+2019-04-16 18:16:14 URL: https://coreos.com/fleet/docs/latest/launching-containers-fleet.html 200 OK
+2019-04-16 18:16:15 URL: http://kubernetes.io/ 200 OK
+2019-04-16 18:16:15 URL: https://prometheus.io/ 200 OK
+2019-04-16 18:16:16 URL: https://www.blablacar.com/ 200 OK
+2019-04-16 18:16:17 URL: https://www.mysql.com/ 200 OK
+2019-04-16 18:16:20 URL: https://www.php.net/ 200 OK
+2019-04-16 18:16:21 URL: https://www.chef.io/products/chef-infra/ 200 OK
+2019-04-16 18:16:21 URL: https://coreos.com/ 200 OK
+2019-04-16 18:16:21 URL: https://www.docker.com/ 200 OK
+2019-04-16 18:16:22 URL: https://coreos.com/rkt/ 200 OK
+2019-04-16 18:16:23 URL: https://github.com/blablacar/dgr 200 OK
+2019-04-16 18:16:23 URL: https://github.com/airbnb/nerve 200 OK
+2019-04-16 18:16:23 URL: https://airbnb.io/projects/synapse/ 200 OK
+2019-04-16 18:16:24 URL: https://github.com/blablacar/go-nerve 200 OK
+2019-04-16 18:16:25 URL: https://github.com/blablacar/go-synapse 200 OK
+2019-04-16 18:16:25 URL: https://coreos.com/fleet/docs/latest/launching-containers-fleet.html 200 OK
+2019-04-16 18:16:26 URL: https://github.com/blablacar/ggn 200 OK
+2019-04-16 18:16:27 URL: http://kubernetes.io/ 200 OK
+2019-04-16 18:16:27 URL: https://prometheus.io/ 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:18:29 URL: https://www.ing.com/ 200 OK
+2019-04-16 18:18:29 URL: https://www.docker.com/ 200 OK
+2019-04-16 18:18:30 URL: https://kubernetes.io/ 200 OK
+2019-04-16 18:18:30 URL: https://mesosphere.com/ 200 OK
+2019-04-16 18:18:31 URL: https://www.yolt.com/ 200 OK
+2019-04-16 18:18:33 URL: https://www.okd.io/ 200 OK
+2019-04-16 18:18:41 URL: https://ec.europa.eu/info/law/payment-services-psd-2-directive-eu-2015-2366_en 200 OK
+2019-04-16 18:18:43 URL: https://www.yolt.com/ 200 OK
+2019-04-16 18:18:44 URL: https://github.com/kubernetes/community/blob/master/contributors/guide/owners.md 200 OK
+2019-04-16 18:18:46 URL: https://jobs.zalando.com/tech/blog/radical-agility-study-notes/ 200 OK
+2019-04-16 18:18:46 URL: https://aws.amazon.com/ 200 OK
+2019-04-16 18:18:47 URL: https://www.zalon.de/ 200 OK
+2019-04-16 18:18:47 URL: https://aws.amazon.com/ 200 OK
+2019-04-16 18:18:48 URL: https://jobs.zalando.com/tech/blog/hack-week-5-is-live/?gh_src=4n3gxh1 200 OK
+2019-04-16 18:18:49 URL: https://kubernetes-on-aws.readthedocs.io/en/latest/admin-guide/kubernetes-in-production.html 200 OK
+2019-04-16 18:18:51 URL: https://www.zalon.de/ 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:19:32 URL: https://github.com/northwesternmutual/kanali 200 OK
+2019-04-16 18:19:32 URL: https://github.com/northwesternmutual/kanali 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:20:13 URL: https://www.workiva.com/ 200 OK
+2019-04-16 18:20:13 URL: https://aws.amazon.com/ 200 OK
+2019-04-16 18:20:14 URL: https://cloud.google.com/appengine/ 200 OK
+2019-04-16 18:20:15 URL: https://www.workiva.com/wdesk 200 OK
+2019-04-16 18:20:15 URL: https://aws.amazon.com/rds/aurora/ 200 OK
+2019-04-16 18:20:16 URL: https://cloud.google.com/compute/ 200 OK
+2019-04-16 18:20:16 URL: https://cloud.google.com/stackdriver/ 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:21:37 URL: https://kubernetes.io/ 200 OK
+2019-04-16 18:21:38 URL: https://github.com/theupdateframework/notary 200 OK
+2019-04-16 18:21:38 URL: https://www.fluentd.org/ 200 OK
+2019-04-16 18:21:38 URL: https://aws.amazon.com/ec2/spot/ 200 OK
+https://ygrene.com/index.html:
+Remote file does not exist -- broken link!!!
+2019-04-16 18:21:51 URL: https://www.energy.gov/eere/slsc/property-assessed-clean-energy-programs 200 OK
+https://thenewstack.io/beyond-ci-cd-how-continuous-hacking-of-docker-containers-and-pipeline-driven-security-keeps-ygrene-secure/index.html:
+Remote file does not exist -- broken link!!!
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:22:33 URL: https://www.ibm.com/cloud/ 200 OK
+2019-04-16 18:22:33 URL: https://kubernetes.io/ 200 OK
+2019-04-16 18:22:33 URL: https://www.cloudfoundry.org/ 200 OK
+2019-04-16 18:22:33 URL: https://www.cncf.io/ 200 OK
+2019-04-16 18:22:34 URL: https://github.com/theupdateframework/notary 200 OK
+2019-04-16 18:22:35 URL: https://github.com/theupdateframework/specification 200 OK
+2019-04-16 18:22:36 URL: https://containerd.io/ 200 OK
+2019-04-16 18:22:36 URL: https://www.envoyproxy.io/ 200 OK
+2019-04-16 18:22:36 URL: https://prometheus.io/ 200 OK
+2019-04-16 18:22:36 URL: https://grpc.io/ 200 OK
+2019-04-16 18:22:37 URL: https://github.com/containernetworking 200 OK
+2019-04-16 18:22:38 URL: https://github.com/spiffe 200 OK
+2019-04-16 18:22:38 URL: https://github.com/spiffe/spire 200 OK
+2019-04-16 18:22:39 URL: http://www.w3.org/2000/svg 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:23:20 URL: https://buffer.com/ 200 OK
+2019-04-16 18:23:20 URL: https://aws.amazon.com/elasticbeanstalk/ 200 OK
+2019-04-16 18:23:20 URL: https://aws.amazon.com/ 200 OK
+2019-04-16 18:23:21 URL: https://www.php.net/manual/en/intro-whatis.php 200 OK
+2019-04-16 18:23:21 URL: https://www.docker.com/ 200 OK
+2019-04-16 18:23:21 URL: https://mesosphere.com/ 200 OK
+2019-04-16 18:23:22 URL: https://dcos.io/ 200 OK
+2019-04-16 18:23:22 URL: https://aws.amazon.com/ecs/ 200 OK
+2019-04-16 18:23:22 URL: https://www.python.org/ 200 OK
+2019-04-16 18:23:22 URL: https://slack.com/intl/ja-jp/ 200 OK
+2019-04-16 18:23:22 URL: https://www.docker.com/ 200 OK
+2019-04-16 18:23:22 URL: https://www.vmware.com/ 200 OK
+2019-04-16 18:23:23 URL: https://www.openstack.org/ 200 OK
+2019-04-16 18:23:23 URL: https://istio.io/ 200 OK
+2019-04-16 18:23:24 URL: https://www.envoyproxy.io/ 200 OK
+2019-04-16 18:23:25 URL: https://coredns.io/ 200 OK
+2019-04-16 18:23:25 URL: https://www.fluentd.org/ 200 OK
+2019-04-16 18:23:25 URL: https://www.docker.com/ 200 OK
+2019-04-16 18:23:26 URL: https://www.cncf.io/announcement/2017/11/13/cloud-native-computing-foundation-launches-certified-kubernetes-program-32-conformant-distributions-platforms/ 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:24:07 URL: https://www.youtube.com/embed/of45hYbkIZs?autoplay=1 200 OK
+2019-04-16 18:24:07 URL: https://www.box.com/home 200 OK
+2019-04-16 18:24:07 URL: http://kubernetes.io/ 200 OK
+2019-04-16 18:24:08 URL: https://www.ge.com/ 200 OK
+2019-04-16 18:24:09 URL: https://www.php.net/ 200 OK
+2019-04-16 18:24:10 URL: https://events.docker.com/events/dockercon/ 200 OK
+2019-04-16 18:24:11 URL: https://ai.google/research/pubs/pub43438 200 OK
+2019-04-16 18:24:11 URL: https://cloud.google.com/ 200 OK
+2019-04-16 18:24:12 URL: https://kubernetes.io/ 200 OK
+2019-04-16 18:24:12 URL: https://www.openshift.com/ 200 OK
+2019-04-16 18:24:13 URL: https://azure.microsoft.com/en-us/services/kubernetes-service/ 200 OK
+2019-04-16 18:24:14 URL: https://www.nagios.org/ 200 OK
+2019-04-16 18:24:14 URL: https://aws.amazon.com/ 200 OK
+2019-04-16 18:24:15 URL: https://coreos.com/ 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:25:35 URL: https://www.youtube.com/watch?v=5378N5iLb2Q 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:26:16 URL: https://cloud.google.com/ 200 OK
+2019-04-16 18:26:17 URL: https://cloud.google.com/kubernetes-engine/ 200 OK
+2019-04-16 18:26:17 URL: https://www.youtube.com/embed/DqS_IPw-c6o 200 OK
+2019-04-16 18:26:17 URL: https://www.youtube.com/embed/Tm4VfJtOHt8 200 OK
+2019-04-16 18:26:18 URL: https://aws.amazon.com/ 200 OK
+2019-04-16 18:26:18 URL: https://cloud.google.com/ 200 OK
+2019-04-16 18:26:19 URL: https://cloud.google.com/kubernetes-engine/ 200 OK
+2019-04-16 18:26:20 URL: https://cloud.google.com/appengine/ 200 OK
+2019-04-16 18:26:20 URL: https://aws.amazon.com/fargate/ 200 OK
+https://open.nytimes.com/publishing-with-apache-kafka-at-the-new-york-times-7f0e3b7d2077:
+Remote file does not exist -- broken link!!!
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:27:43 URL: https://searchitoperations.techtarget.com/news/450297178/Tech-firms-roll-out-Kubernetes-in-production 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:28:24 URL: https://locust.io/ 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:29:05 URL: https://cloud.google.com/customers/ 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:29:46 URL: https://kubernetes.io/blog/2016/10/kubernetes-and-openstack-at-yahoo-japan/ 200 OK
+2019-04-16 18:29:46 URL: https://www.youtube.com/embed/of45hYbkIZs 200 OK
+2019-04-16 18:29:48 URL: https://www.appdirect.com/ 200 OK
+2019-04-16 18:29:49 URL: https://kubernetes.io/ 200 OK
+2019-04-16 18:29:49 URL: https://prometheus.io/ 200 OK
+2019-04-16 18:29:49 URL: https://aws.amazon.com/ 200 OK
+Syntax error in Set-Cookie: wac_user_detected=0;Domain=www.atlassian.com;Path=/;Max-Age=-1 at position 62.
+2019-04-16 18:29:51 URL: https://www.atlassian.com/software/jira 200 OK
+2019-04-16 18:29:53 URL: https://www.appdirect.com/ 200 OK
+2019-04-16 18:29:53 URL: https://nodejs.org/en/ 200 OK
+2019-04-16 18:29:54 URL: https://spring.io/projects/spring-boot 200 OK
+2019-04-16 18:29:54 URL: https://aws.amazon.com/ 200 OK
+2019-04-16 18:29:55 URL: https://www.chef.io/ 200 OK
+2019-04-16 18:29:55 URL: https://www.terraform.io/ 200 OK
+2019-04-16 18:29:56 URL: https://github.com/kubernetes/kops 200 OK
+Syntax error in Set-Cookie: wac_user_detected=0;Domain=www.atlassian.com;Path=/;Max-Age=-1 at position 62.
+2019-04-16 18:29:57 URL: https://www.atlassian.com/software/jira 200 OK
+2019-04-16 18:29:57 URL: https://grpc.io/ 200 OK
+2019-04-16 18:29:57 URL: https://www.fluentd.org/ 200 OK
+2019-04-16 18:29:58 URL: https://opencensus.io/ 200 OK
+2019-04-16 18:29:58 URL: https://prometheus.io/ 200 OK
+2019-04-16 18:29:58 URL: https://slack.com/intl/ja-jp/ 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:30:40 URL: https://netease-na.com/ 200 OK
+2019-04-16 18:30:40 URL: https://www.163.com/ 200 OK
+2019-04-16 18:30:40 URL: https://kubernetes.io/ 200 OK
+2019-04-16 18:30:41 URL: https://prometheus.io/ 200 OK
+2019-04-16 18:30:41 URL: https://www.envoyproxy.io/ 200 OK
+2019-04-16 18:30:41 URL: https://goharbor.io/ 200 OK
+2019-04-16 18:30:41 URL: https://grpc.io/ 200 OK
+2019-04-16 18:30:42 URL: https://helm.sh/ 200 OK
+2019-04-16 18:30:42 URL: https://landscape.cncf.io/selected=netease-qingzhou-microservice 200 OK
+2019-04-16 18:30:44 URL: https://newzoo.com/insights/rankings/top-25-companies-game-revenues/ 200 OK
+2019-04-16 18:30:45 URL: https://netease-na.com/ 200 OK
+2019-04-16 18:30:45 URL: https://www.163.com/ 200 OK
+2019-04-16 18:30:46 URL: https://www.126.com/ 200 OK
+2019-04-16 18:30:46 URL: https://kubernetes.io/ 200 OK
+2019-04-16 18:30:46 URL: https://prometheus.io/ 200 OK
+2019-04-16 18:30:47 URL: https://www.envoyproxy.io/ 200 OK
+2019-04-16 18:30:47 URL: https://goharbor.io/ 200 OK
+2019-04-16 18:30:47 URL: https://grpc.io/ 200 OK
+2019-04-16 18:30:48 URL: https://helm.sh/ 200 OK
+2019-04-16 18:30:48 URL: https://landscape.cncf.io/selected=netease-qingzhou-microservice 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:31:29 URL: https://www.nav.com/ 200 OK
+2019-04-16 18:31:30 URL: https://kubernetes.io/ 200 OK
+2019-04-16 18:31:30 URL: https://aws.amazon.com/ 200 OK
+2019-04-16 18:31:30 URL: https://www.youtube.com/embed/0IbOk1_H-f0 200 OK
+2019-04-16 18:31:31 URL: https://www.nav.com/ 200 OK
+2019-04-16 18:31:32 URL: https://kubernetes.io/ 200 OK
+2019-04-16 18:31:32 URL: https://aws.amazon.com/ 200 OK
+2019-04-16 18:31:32 URL: https://kubespray.io/ 200 OK
+2019-04-16 18:31:33 URL: https://about.gitlab.com/ 200 OK
+2019-04-16 18:31:33 URL: https://kubernetes.io/docs/tasks/tools/install-kubectl/ 200 OK
+2019-04-16 18:31:34 URL: https://www.twistlock.com/ 200 OK
+2019-04-16 18:31:34 URL: https://prometheus.io/ 200 OK
+2019-04-16 18:31:34 URL: https://www.envoyproxy.io/ 200 OK
+2019-04-16 18:31:35 URL: https://opentracing.io/ 200 OK
+2019-04-16 18:31:35 URL: https://www.jaegertracing.io/ 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+2019-04-16 18:32:15 URL: https://www.youtube.com/embed/feQkzJkW-SA 200 OK
+https://github.com/containernetworking/cnihttps://github.com/containernetworking/cni:
+Remote file does not exist -- broken link!!!
+2019-04-16 18:32:16 URL: https://prometheus.io/ 200 OK
+2019-04-16 18:32:16 URL: https://www.fluentd.org/ 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+Syntax error in Set-Cookie:  at position 0.
+2019-04-16 18:32:57 URL: https://www.ancestry.com/ 200 OK
+2019-04-16 18:32:57 URL: https://www.ancestry.com/ 200 OK
+2019-04-16 18:32:57 URL: https://www.docker.com/ 200 OK
+2019-04-16 18:32:58 URL: https://kubernetes.io/ 200 OK
+2019-04-16 18:32:58 URL: https://prometheus.io/ 200 OK
+2019-04-16 18:32:58 URL: https://kubernetes.io/ 200 OK
+2019-04-16 18:32:58 URL: https://www.java.com/en/ 200 OK
+2019-04-16 18:32:58 URL: https://www.python.org/ 200 OK
+2019-04-16 18:32:59 URL: https://docs.docker.com/compose/ 200 OK
+2019-04-16 18:32:59 URL: http://mesos.apache.org/ 200 OK
+2019-04-16 18:33:00 URL: https://www.openstack.org/software/ 200 OK
+2019-04-16 18:33:03 URL: https://www.meetup.com/Utah-Kubernetes-Meetup/ 200 OK
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’
+wget: unable to resolve host address ‘binary’
+wget: unable to resolve host address ‘file’
+wget: unable to resolve host address ‘content’
+wget: unable to resolve host address ‘matches’

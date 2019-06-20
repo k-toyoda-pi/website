@@ -396,6 +396,9 @@ running_, using `kubectl delete jobs/old --cascade=false`.
 Before deleting it, you make a note of what selector it uses:
 
 ```
+kubectl get job old -o yaml
+```
+```
 kind: Job
 metadata:
   name: old
@@ -403,12 +406,12 @@ metadata:
 spec:
   selector:
     matchLabels:
-      job-uid: a8f3d00d-c6d2-11e5-9f87-42010af00002
+      controller-uid: 35cf27e5-687f-410b-b5e0-68ac6faf392b
   ...
 ```
 
 Then you create a new Job with name `new` and you explicitly specify the same selector.
-Since the existing Pods have label `job-uid=a8f3d00d-c6d2-11e5-9f87-42010af00002`,
+Since the existing Pods have label `controller-uid: 35cf27e5-687f-410b-b5e0-68ac6faf392b`,
 they are controlled by Job `new` as well.
 
 You need to specify `manualSelector: true` in the new Job since you are not using
@@ -423,11 +426,11 @@ spec:
   manualSelector: true
   selector:
     matchLabels:
-      job-uid: a8f3d00d-c6d2-11e5-9f87-42010af00002
+      controller-uid: 35cf27e5-687f-410b-b5e0-68ac6faf392b
   ...
 ```
 
-The new Job itself will have a different uid from `a8f3d00d-c6d2-11e5-9f87-42010af00002`.  Setting
+The new Job itself will have a different uid from `35cf27e5-687f-410b-b5e0-68ac6faf392b`.  Setting
 `manualSelector: true` tells the system to that you know what you are doing and to allow this
 mismatch.
 
